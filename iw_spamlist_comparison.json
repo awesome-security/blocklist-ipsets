@@ -56,43 +56,43 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33484,
+		"ips": 33360,
 		"common": 260
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10829,
+		"ips": 10810,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1245,
+		"ips": 1261,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1315,
+		"ips": 1308,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 1629,
+		"ips": 1640,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 22631,
+		"ips": 22496,
 		"common": 255
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5550,
+		"ips": 5552,
 		"common": 1
 	},
 	{
@@ -338,8 +338,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50665,
-		"common": 49
+		"ips": 50668,
+		"common": 50
 	},
 	{
 		"name": "firehol_level1",
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44325,
+		"ips": 44201,
 		"common": 260
 	},
 	{
@@ -368,8 +368,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37721,
-		"common": 49
+		"ips": 37724,
+		"common": 50
 	},
 	{
 		"name": "firehol_webclient",
@@ -758,7 +758,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5286,
+		"ips": 5288,
 		"common": 4
 	},
 	{
@@ -816,22 +816,28 @@
 		"common": 4
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5167,
-		"common": 21
+		"ips": 5181,
+		"common": 22
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22114,
-		"common": 31
+		"ips": 22117,
+		"common": 32
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 11975,
-		"common": 27
+		"ips": 11981,
+		"common": 28
 	},
 	{
 		"name": "sorbs_anonymizers",
