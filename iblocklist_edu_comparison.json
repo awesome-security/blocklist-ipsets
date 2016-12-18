@@ -200,55 +200,55 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36356,
-		"common": 236
+		"ips": 36206,
+		"common": 234
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10885,
+		"ips": 10872,
 		"common": 15
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1363,
+		"ips": 1358,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1354,
+		"ips": 1348,
 		"common": 13
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 1130,
+		"ips": 1144,
 		"common": 12
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1446,
+		"ips": 1435,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25626,
-		"common": 154
+		"ips": 25492,
+		"common": 152
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5751,
+		"ips": 5736,
 		"common": 45
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7715,
+		"ips": 7714,
 		"common": 105
 	},
 	{
@@ -536,7 +536,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 35575,
+		"ips": 35637,
 		"common": 290
 	},
 	{
@@ -800,8 +800,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46170,
-		"common": 510
+		"ips": 46021,
+		"common": 508
 	},
 	{
 		"name": "firehol_level3",
@@ -812,7 +812,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574108,
+		"ips": 9574107,
 		"common": 179734
 	},
 	{
@@ -1214,8 +1214,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 26637,
-		"common": 231
+		"ips": 26813,
+		"common": 240
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1620,9 +1620,15 @@
 		"common": 91
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 3
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5199,
+		"ips": 5185,
 		"common": 60
 	},
 	{
@@ -1634,7 +1640,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 12212,
+		"ips": 12211,
 		"common": 117
 	},
 	{
