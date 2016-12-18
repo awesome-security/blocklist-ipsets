@@ -26,31 +26,43 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 39404,
-		"common": 112
+		"ips": 39277,
+		"common": 113
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 10998,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1378,
-		"common": 87
+		"ips": 1386,
+		"common": 86
+	},
+	{
+		"name": "blocklist_de_bruteforce",
+		"category": "attacks",
+		"ips": 1449,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 28868,
-		"common": 24
+		"ips": 28680,
+		"common": 25
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5831,
+		"ips": 5855,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7874,
+		"ips": 7871,
 		"common": 17
 	},
 	{
@@ -272,7 +284,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 100989,
+		"ips": 101023,
 		"common": 737
 	},
 	{
@@ -380,7 +392,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574195,
+		"ips": 9574193,
 		"common": 773
 	},
 	{
@@ -752,26 +764,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1247,
-		"common": 747
+		"ips": 1227,
+		"common": 730
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2495,
-		"common": 1527
+		"ips": 2471,
+		"common": 1514
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 10473,
-		"common": 5280
+		"ips": 10452,
+		"common": 5276
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5312,
-		"common": 3057
+		"ips": 5305,
+		"common": 3055
 	},
 	{
 		"name": "proxyrss",
@@ -818,26 +830,26 @@
 	{
 		"name": "proxz",
 		"category": "anonymizers",
-		"ips": 25,
-		"common": 14
+		"ips": 24,
+		"common": 17
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 217,
-		"common": 144
+		"ips": 208,
+		"common": 139
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2555,
-		"common": 1558
+		"ips": 2549,
+		"common": 1555
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 891,
-		"common": 559
+		"ips": 890,
+		"common": 560
 	},
 	{
 		"name": "pushing_inertia_blocklist",
