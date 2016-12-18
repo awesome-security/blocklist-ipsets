@@ -84,6 +84,12 @@
 		"common": 2
 	},
 	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 270,
+		"common": 1
+	},
+	{
 		"name": "bambenek_tinba",
 		"category": "malware",
 		"ips": 9,
@@ -242,7 +248,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7584,
+		"ips": 7532,
 		"common": 68
 	},
 	{
@@ -308,8 +314,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 8705,
-		"common": 394
+		"ips": 8817,
+		"common": 396
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -470,7 +476,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 35844,
+		"ips": 35847,
 		"common": 31
 	},
 	{
@@ -572,8 +578,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661877461,
-		"common": 175
+		"ips": 661877463,
+		"common": 176
 	},
 	{
 		"name": "firehol_level2",
@@ -584,13 +590,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 122775,
-		"common": 1307
+		"ips": 122885,
+		"common": 1309
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573994,
+		"ips": 9573946,
 		"common": 267
 	},
 	{
@@ -602,7 +608,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14315,
+		"ips": 14311,
 		"common": 6
 	},
 	{
@@ -722,7 +728,7 @@
 	{
 		"name": "iblocklist_cruzit_web_attacks",
 		"category": "attacks",
-		"ips": 6266,
+		"ips": 6267,
 		"common": 3
 	},
 	{
@@ -944,7 +950,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32130,
+		"ips": 33468,
 		"common": 6
 	},
 	{
@@ -1082,13 +1088,13 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5287,
+		"ips": 5288,
 		"common": 4
 	},
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 480,
+		"ips": 476,
 		"common": 1
 	},
 	{
@@ -1148,7 +1154,7 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 56974,
+		"ips": 57871,
 		"common": 17
 	},
 	{
@@ -1160,8 +1166,8 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1356978,
-		"common": 202
+		"ips": 1356866,
+		"common": 201
 	},
 	{
 		"name": "sorbs_web",
