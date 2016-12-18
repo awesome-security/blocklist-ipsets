@@ -374,7 +374,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 34680,
+		"ips": 34737,
 		"common": 30
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47972,
+		"ips": 47819,
 		"common": 803
 	},
 	{
@@ -598,12 +598,6 @@
 		"category": "unrouteable",
 		"ips": 656175779,
 		"common": 254
-	},
-	{
-		"name": "iblocklist_ciarmy_malicious",
-		"category": "reputation",
-		"ips": 8206,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -1404,6 +1398,18 @@
 		"common": 2
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 64,
+		"common": 1
+	},
+	{
+		"name": "xroxy_1d",
+		"category": "anonymizers",
+		"ips": 143,
+		"common": 1
+	},
+	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
 		"ips": 667,
@@ -1412,8 +1418,8 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 337,
-		"common": 1
+		"ips": 338,
+		"common": 2
 	},
 	{
 		"name": "yoyo_adservers",
