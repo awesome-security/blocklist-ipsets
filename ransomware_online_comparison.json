@@ -96,6 +96,12 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 50653,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 661872595,
@@ -112,6 +118,12 @@
 		"category": "attacks",
 		"ips": 9573741,
 		"common": 16
+	},
+	{
+		"name": "firehol_proxies",
+		"category": "anonymizers",
+		"ips": 37706,
+		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
@@ -250,6 +262,30 @@
 		"category": "reputation",
 		"ips": 51,
 		"common": 2
+	},
+	{
+		"name": "proxyspy",
+		"category": "anonymizers",
+		"ips": 300,
+		"common": 1
+	},
+	{
+		"name": "proxyspy_1d",
+		"category": "anonymizers",
+		"ips": 1258,
+		"common": 1
+	},
+	{
+		"name": "proxyspy_30d",
+		"category": "anonymizers",
+		"ips": 7708,
+		"common": 1
+	},
+	{
+		"name": "proxyspy_7d",
+		"category": "anonymizers",
+		"ips": 3132,
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
