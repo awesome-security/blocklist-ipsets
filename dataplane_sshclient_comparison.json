@@ -80,19 +80,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34172,
-		"common": 990
+		"ips": 34098,
+		"common": 989
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10811,
-		"common": 7
+		"ips": 10821,
+		"common": 6
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 1598,
+		"ips": 1612,
 		"common": 2
 	},
 	{
@@ -104,19 +104,25 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 23205,
+		"ips": 23116,
 		"common": 8
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 140,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5626,
-		"common": 973
+		"ips": 5616,
+		"common": 972
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 139,
+		"ips": 138,
 		"common": 58
 	},
 	{
@@ -434,7 +440,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50683,
+		"ips": 50689,
 		"common": 38
 	},
 	{
@@ -464,13 +470,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37713,
+		"ips": 37719,
 		"common": 25
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14004,
+		"ips": 13993,
 		"common": 29
 	},
 	{
@@ -752,8 +758,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37599,
-		"common": 9
+		"ips": 37528,
+		"common": 8
 	},
 	{
 		"name": "nt_ssh_7d",
