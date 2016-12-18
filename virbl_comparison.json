@@ -21,13 +21,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 39404,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 28868,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -56,8 +56,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53437,
-		"common": 1375
+		"ips": 53208,
+		"common": 1144
 	},
 	{
 		"name": "firehol_level3",
@@ -68,7 +68,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574200,
+		"ips": 9574195,
 		"common": 4
 	},
 	{
@@ -81,7 +81,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 100
+		"common": 85
 	},
 	{
 		"name": "iblocklist_edu",
@@ -99,7 +99,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691041,
-		"common": 27
+		"common": 22
 	},
 	{
 		"name": "iblocklist_level2",
@@ -111,7 +111,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 109
+		"common": 97
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -123,19 +123,19 @@
 		"name": "iw_spamlist",
 		"category": "spam",
 		"ips": 5192,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 3569931,
-		"common": 166
+		"common": 139
 	},
 	{
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 24001,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "nullsecure",
@@ -195,7 +195,7 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 58546,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "sorbs_noserver",
@@ -207,7 +207,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1357079,
-		"common": 55
+		"common": 48
 	},
 	{
 		"name": "sorbs_web",
@@ -219,19 +219,13 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 20
-	},
-	{
-		"name": "stopforumspam_180d",
-		"category": "abuse",
-		"ips": 286501,
-		"common": 1
+		"common": 18
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 574840,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_toxic",
