@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8611,
+		"ips": 8606,
 		"common": 149
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3895,
+		"ips": 3909,
 		"common": 11
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50748,
+		"ips": 50747,
 		"common": 5735
 	},
 	{
@@ -518,7 +518,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574919,
+		"ips": 9574914,
 		"common": 2817
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14644,
+		"ips": 14632,
 		"common": 15
 	},
 	{
@@ -824,8 +824,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 5241,
-		"common": 25
+		"ips": 5208,
+		"common": 24
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -922,12 +922,6 @@
 		"category": "reputation",
 		"ips": 3181,
 		"common": 19
-	},
-	{
-		"name": "packetmail_emerging_ips",
-		"category": "reputation",
-		"ips": 51,
-		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -1196,8 +1190,8 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 1909,
-		"common": 121
+		"ips": 1903,
+		"common": 122
 	},
 	{
 		"name": "socks_proxy",
@@ -1388,20 +1382,20 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1047,
-		"common": 109
+		"ips": 1043,
+		"common": 107
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2550,
+		"ips": 2549,
 		"common": 292
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1423,
-		"common": 174
+		"common": 173
 	},
 	{
 		"name": "trustedsec_atif",
