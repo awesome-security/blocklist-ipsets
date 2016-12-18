@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8465,
+		"ips": 8060,
 		"common": 5
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 33809,
+		"ips": 33910,
 		"common": 2
 	},
 	{
@@ -266,8 +266,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50643,
-		"common": 62
+		"ips": 50646,
+		"common": 63
 	},
 	{
 		"name": "firehol_level1",
@@ -278,8 +278,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53749,
-		"common": 48
+		"ips": 53709,
+		"common": 49
 	},
 	{
 		"name": "firehol_level3",
@@ -290,19 +290,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574781,
+		"ips": 9574384,
 		"common": 44
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37724,
-		"common": 54
+		"ips": 37727,
+		"common": 55
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14622,
+		"ips": 14618,
 		"common": 1
 	},
 	{
@@ -488,8 +488,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 27771,
-		"common": 16
+		"ips": 26701,
+		"common": 14
 	},
 	{
 		"name": "packetmail",
@@ -732,22 +732,28 @@
 		"common": 11
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5162,
-		"common": 10
+		"ips": 5174,
+		"common": 11
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22141,
-		"common": 10
+		"ips": 22143,
+		"common": 11
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 12366,
-		"common": 10
+		"ips": 12367,
+		"common": 11
 	},
 	{
 		"name": "sorbs_dul",
@@ -812,19 +818,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 211,
+		"ips": 212,
 		"common": 13
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2041,
+		"ips": 2042,
 		"common": 13
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 537,
+		"ips": 538,
 		"common": 13
 	},
 	{
