@@ -854,8 +854,8 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14079,
-		"common": 2899
+		"ips": 14077,
+		"common": 2901
 	},
 	{
 		"name": "firehol_webserver",
@@ -1592,8 +1592,8 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 243,
-		"common": 6
+		"ips": 241,
+		"common": 8
 	},
 	{
 		"name": "ransomware_rw",
@@ -1686,9 +1686,15 @@
 		"common": 1917
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 3
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5234,
+		"ips": 5189,
 		"common": 116
 	},
 	{
@@ -1700,7 +1706,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 12065,
+		"ips": 12062,
 		"common": 190
 	},
 	{
@@ -1796,7 +1802,7 @@
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 93,
+		"ips": 92,
 		"common": 3
 	},
 	{
