@@ -24,6 +24,12 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 7488,
+		"common": 2
+	},
+	{
 		"name": "blueliv_crimeserver_last_1d",
 		"category": "attacks",
 		"ips": 7529,
@@ -194,13 +200,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50655,
+		"ips": 50653,
 		"common": 299
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47170,
+		"ips": 47166,
 		"common": 13
 	},
 	{
@@ -212,13 +218,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573856,
-		"common": 46
+		"ips": 9573893,
+		"common": 48
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37636,
+		"ips": 37634,
 		"common": 299
 	},
 	{
@@ -308,8 +314,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35872,
-		"common": 7
+		"ips": 36962,
+		"common": 9
 	},
 	{
 		"name": "php_commenters",
@@ -398,26 +404,26 @@
 	{
 		"name": "proxyrss",
 		"category": "anonymizers",
-		"ips": 1050,
-		"common": 91
+		"ips": 977,
+		"common": 79
 	},
 	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 2194,
-		"common": 170
+		"ips": 2352,
+		"common": 177
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 10146,
-		"common": 264
+		"ips": 10165,
+		"common": 265
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 5044,
-		"common": 246
+		"ips": 5050,
+		"common": 248
 	},
 	{
 		"name": "proxyspy_1d",
@@ -524,7 +530,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22123,
+		"ips": 22115,
 		"common": 1
 	},
 	{

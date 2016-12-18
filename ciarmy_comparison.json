@@ -204,6 +204,12 @@
 		"common": 36
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 7488,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 37881,
@@ -440,19 +446,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50655,
+		"ips": 50653,
 		"common": 4
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661877463,
+		"ips": 661877464,
 		"common": 308
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47170,
+		"ips": 47166,
 		"common": 511
 	},
 	{
@@ -464,19 +470,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573856,
-		"common": 21
+		"ips": 9573893,
+		"common": 22
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37636,
+		"ips": 37634,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14264,
+		"ips": 14254,
 		"common": 1
 	},
 	{
@@ -704,7 +710,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35872,
+		"ips": 36962,
 		"common": 1
 	},
 	{
@@ -728,7 +734,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 219,
+		"ips": 214,
 		"common": 2
 	},
 	{
@@ -764,7 +770,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 133510,
+		"ips": 133515,
 		"common": 164
 	},
 	{
