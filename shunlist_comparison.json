@@ -92,31 +92,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34724,
+		"ips": 34805,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10808,
+		"ips": 10818,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1459,
+		"ips": 1467,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 23854,
+		"ips": 23772,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5766,
+		"ips": 5768,
 		"common": 5
 	},
 	{
@@ -170,37 +170,37 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6781,
+		"ips": 6793,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 76857,
+		"ips": 76869,
 		"common": 13
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 19722,
+		"ips": 19715,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5868,
+		"ips": 5876,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 55923,
+		"ips": 55928,
 		"common": 15
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 15069,
+		"ips": 15073,
 		"common": 3
 	},
 	{
@@ -332,13 +332,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11222,
+		"ips": 11237,
 		"common": 3
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 267800,
+		"ips": 267818,
 		"common": 41
 	},
 	{
@@ -350,13 +350,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661872601,
+		"ips": 661872600,
 		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45863,
+		"ips": 45944,
 		"common": 12
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14085,
+		"ips": 14079,
 		"common": 8
 	},
 	{
@@ -594,6 +594,12 @@
 		"common": 1
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38046,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -728,7 +734,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5288,
+		"ips": 5287,
 		"common": 2
 	},
 	{
