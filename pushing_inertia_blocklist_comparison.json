@@ -248,8 +248,8 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 899,
-		"common": 154
+		"ips": 897,
+		"common": 153
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
@@ -266,32 +266,32 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4377,
+		"ips": 4384,
 		"common": 980
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5367,
-		"common": 1019
+		"ips": 5370,
+		"common": 1018
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 19372,
+		"ips": 19371,
 		"common": 1541
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 8704,
+		"ips": 8711,
 		"common": 1158
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34837,
-		"common": 4808
+		"ips": 34724,
+		"common": 4804
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -584,19 +584,19 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 447,
+		"ips": 453,
 		"common": 120
 	},
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3920,
-		"common": 326
+		"ips": 3931,
+		"common": 327
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1704,
+		"ips": 1709,
 		"common": 135
 	},
 	{
@@ -890,7 +890,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50787,
+		"ips": 50783,
 		"common": 4038
 	},
 	{
@@ -902,14 +902,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45985,
-		"common": 5898
+		"ips": 45871,
+		"common": 5894
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123327,
-		"common": 21767
+		"ips": 123309,
+		"common": 21766
 	},
 	{
 		"name": "firehol_level4",
@@ -920,14 +920,14 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37756,
+		"ips": 37752,
 		"common": 1202
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14094,
-		"common": 1511
+		"ips": 14085,
+		"common": 1510
 	},
 	{
 		"name": "firehol_webserver",
@@ -1268,8 +1268,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 4675,
-		"common": 216
+		"ips": 4571,
+		"common": 220
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -1400,8 +1400,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3182,
-		"common": 133
+		"ips": 3159,
+		"common": 130
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -1418,8 +1418,8 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 205,
-		"common": 3
+		"ips": 195,
+		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -1646,8 +1646,8 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 258,
-		"common": 20
+		"ips": 249,
+		"common": 19
 	},
 	{
 		"name": "ransomware_rw",
@@ -1736,8 +1736,8 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 1903,
-		"common": 287
+		"ips": 1917,
+		"common": 289
 	},
 	{
 		"name": "socks_proxy",
@@ -1748,19 +1748,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5237,
+		"ips": 5234,
 		"common": 42
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22113,
+		"ips": 22108,
 		"common": 219
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 12064,
+		"ips": 12065,
 		"common": 93
 	},
 	{
@@ -1850,7 +1850,7 @@
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 94,
+		"ips": 93,
 		"common": 17
 	},
 	{
@@ -1862,7 +1862,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2020,
+		"ips": 2019,
 		"common": 268
 	},
 	{
@@ -1940,7 +1940,7 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 992,
+		"ips": 996,
 		"common": 190
 	},
 	{
@@ -1952,13 +1952,13 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2548,
+		"ips": 2549,
 		"common": 333
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1422,
+		"ips": 1426,
 		"common": 227
 	},
 	{
