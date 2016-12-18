@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7393,
+		"ips": 7354,
 		"common": 2
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573836,
+		"ips": 9573800,
 		"common": 7
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14132,
+		"ips": 14118,
 		"common": 2
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38185,
+		"ips": 38131,
 		"common": 16
 	},
 	{
@@ -645,6 +645,12 @@
 		"name": "spamhaus_drop",
 		"category": "reputation",
 		"ips": 25194240,
+		"common": 1
+	},
+	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 92,
 		"common": 1
 	},
 	{
