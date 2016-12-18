@@ -44,14 +44,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36337,
+		"ips": 36245,
 		"common": 106
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7670,
-		"common": 2
+		"ips": 7662,
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -98,25 +98,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46173,
+		"ips": 46082,
 		"common": 106
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 122782,
+		"ips": 122775,
 		"common": 9
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574072,
-		"common": 14
+		"ips": 9574064,
+		"common": 13
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14348,
+		"ips": 14342,
 		"common": 2
 	},
 	{
@@ -135,7 +135,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2720,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "haley_ssh",
@@ -162,6 +162,12 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_isp_att",
+		"category": "organizations",
+		"ips": 55845128,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
@@ -184,6 +190,12 @@
 		"category": "reputation",
 		"ips": 139023007,
 		"common": 15
+	},
+	{
+		"name": "iblocklist_org_blizzard",
+		"category": "organizations",
+		"ips": 16795139,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_pedophiles",
