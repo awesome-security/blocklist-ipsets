@@ -153,12 +153,12 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 267788,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50778,
+		"ips": 50779,
 		"common": 3
 	},
 	{
@@ -170,20 +170,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573758,
+		"ips": 9573746,
 		"common": 2
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37749,
+		"ips": 37750,
 		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 51002536,
-		"common": 85
+		"common": 86
 	},
 	{
 		"name": "gofferje_sip",
@@ -447,7 +447,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50766984,
-		"common": 85
+		"common": 86
 	},
 	{
 		"name": "ri_connect_proxies_30d",
@@ -474,9 +474,15 @@
 		"common": 1
 	},
 	{
+		"name": "sblam",
+		"category": "abuse",
+		"ips": 68119,
+		"common": 1
+	},
+	{
 		"name": "sorbs_anonymizers",
 		"category": "spam",
-		"ips": 608317,
+		"ips": 608318,
 		"common": 31
 	},
 	{
@@ -488,8 +494,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 61639,
-		"common": 18
+		"ips": 64158,
+		"common": 20
 	},
 	{
 		"name": "sorbs_noserver",
@@ -500,13 +506,13 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1357291,
-		"common": 144
+		"ips": 1357018,
+		"common": 142
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6205556,
+		"ips": 6205611,
 		"common": 35
 	},
 	{

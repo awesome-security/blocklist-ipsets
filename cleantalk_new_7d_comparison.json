@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7278,
+		"ips": 7265,
 		"common": 24
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50778,
+		"ips": 50779,
 		"common": 991
 	},
 	{
@@ -392,19 +392,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573758,
+		"ips": 9573746,
 		"common": 566
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37749,
+		"ips": 37750,
 		"common": 944
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14051,
+		"ips": 14032,
 		"common": 3
 	},
 	{
@@ -1014,9 +1014,15 @@
 		"common": 70
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5206,
+		"ips": 5199,
 		"common": 86
 	},
 	{
@@ -1028,14 +1034,14 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 12063,
+		"ips": 12003,
 		"common": 313
 	},
 	{
 		"name": "sorbs_anonymizers",
 		"category": "spam",
-		"ips": 608317,
-		"common": 10
+		"ips": 608318,
+		"common": 11
 	},
 	{
 		"name": "sorbs_dul",
@@ -1046,8 +1052,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 61639,
-		"common": 115
+		"ips": 64158,
+		"common": 118
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1058,14 +1064,14 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1357291,
-		"common": 341
+		"ips": 1357018,
+		"common": 347
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6205556,
-		"common": 86
+		"ips": 6205611,
+		"common": 87
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -1100,19 +1106,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 208,
+		"ips": 207,
 		"common": 51
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2022,
+		"ips": 2023,
 		"common": 164
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 552,
+		"ips": 553,
 		"common": 164
 	},
 	{
