@@ -36,6 +36,12 @@
 		"common": 8
 	},
 	{
+		"name": "bambenek_bebloh",
+		"category": "malware",
+		"ips": 1,
+		"common": 1
+	},
+	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 272,
@@ -68,8 +74,8 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 9,
-		"common": 7
+		"ips": 8,
+		"common": 6
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -176,31 +182,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34567,
+		"ips": 34573,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10797,
+		"ips": 10805,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1326,
+		"ips": 1333,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1465,
+		"ips": 1474,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 23583,
+		"ips": 23571,
 		"common": 3
 	},
 	{
@@ -332,49 +338,49 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2758,
-		"common": 82
+		"ips": 2751,
+		"common": 81
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6792,
+		"ips": 6721,
 		"common": 107
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 76850,
+		"ips": 76837,
 		"common": 554
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 19711,
+		"ips": 19703,
 		"common": 194
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 759,
-		"common": 18
+		"ips": 752,
+		"common": 17
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1811,
+		"ips": 1735,
 		"common": 29
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 37411,
+		"ips": 37404,
 		"common": 301
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 8771,
+		"ips": 8763,
 		"common": 95
 	},
 	{
@@ -386,19 +392,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5858,
+		"ips": 5855,
 		"common": 91
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 55921,
+		"ips": 55915,
 		"common": 293
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 15075,
+		"ips": 15071,
 		"common": 120
 	},
 	{
@@ -434,7 +440,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1709,
+		"ips": 1704,
 		"common": 19
 	},
 	{
@@ -620,20 +626,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11248,
+		"ips": 11173,
 		"common": 294
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 267798,
+		"ips": 267788,
 		"common": 1070
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50777,
-		"common": 748
+		"ips": 50778,
+		"common": 747
 	},
 	{
 		"name": "firehol_level1",
@@ -644,7 +650,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45966,
+		"ips": 45974,
 		"common": 21
 	},
 	{
@@ -662,14 +668,14 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37746,
+		"ips": 37749,
 		"common": 123
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14062,
-		"common": 215
+		"ips": 14051,
+		"common": 213
 	},
 	{
 		"name": "firehol_webserver",
@@ -1364,7 +1370,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5288,
+		"ips": 5289,
 		"common": 457
 	},
 	{
@@ -1376,8 +1382,8 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 226,
-		"common": 34
+		"ips": 215,
+		"common": 32
 	},
 	{
 		"name": "ransomware_rw",
@@ -1496,7 +1502,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2021,
+		"ips": 2022,
 		"common": 2
 	},
 	{
@@ -1568,8 +1574,8 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 996,
-		"common": 617
+		"ips": 992,
+		"common": 614
 	},
 	{
 		"name": "tor_exits_1d",
@@ -1586,8 +1592,8 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1426,
-		"common": 1001
+		"ips": 1425,
+		"common": 1000
 	},
 	{
 		"name": "trustedsec_atif",
