@@ -69,7 +69,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 38983,
-		"common": 3280
+		"common": 3281
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -99,7 +99,7 @@
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 28404,
-		"common": 3116
+		"common": 3117
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -207,18 +207,18 @@
 		"name": "cleantalk",
 		"category": "abuse",
 		"ips": 2707,
-		"common": 179
+		"common": 185
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6621,
-		"common": 396
+		"ips": 6624,
+		"common": 395
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 77063,
+		"ips": 77047,
 		"common": 7427
 	},
 	{
@@ -236,43 +236,43 @@
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1817,
+		"ips": 1811,
 		"common": 133
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 37613,
+		"ips": 37598,
 		"common": 5630
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 8954,
+		"ips": 8957,
 		"common": 967
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 124
+		"common": 130
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5659,
-		"common": 270
+		"ips": 5666,
+		"common": 269
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 55898,
+		"ips": 55899,
 		"common": 1898
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14912,
+		"ips": 14913,
 		"common": 469
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 442,
+		"ips": 441,
 		"common": 1
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1695,
+		"ips": 1700,
 		"common": 24
 	},
 	{
@@ -440,20 +440,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 10872,
-		"common": 966
+		"ips": 10873,
+		"common": 965
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 267846,
+		"ips": 267837,
 		"common": 13322
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50694,
-		"common": 37693
+		"ips": 50695,
+		"common": 37694
 	},
 	{
 		"name": "firehol_level1",
@@ -465,12 +465,12 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 52783,
-		"common": 3285
+		"common": 3286
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 122615,
+		"ips": 122616,
 		"common": 878
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14570,
+		"ips": 14562,
 		"common": 462
 	},
 	{
@@ -657,7 +657,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691041,
-		"common": 612
+		"common": 613
 	},
 	{
 		"name": "iblocklist_level2",
@@ -801,7 +801,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 21849,
-		"common": 1148
+		"common": 1149
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1142,20 +1142,20 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5222,
-		"common": 5215
+		"ips": 5198,
+		"common": 5191
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22144,
-		"common": 22120
+		"ips": 22145,
+		"common": 22121
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 12368,
-		"common": 12358
+		"ips": 12334,
+		"common": 12324
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1173,7 +1173,7 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 58546,
-		"common": 4440
+		"common": 4441
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1185,7 +1185,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1357079,
-		"common": 11378
+		"common": 11379
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1220,14 +1220,14 @@
 	{
 		"name": "sslbl_aggressive",
 		"category": "malware",
-		"ips": 2400,
+		"ips": 2401,
 		"common": 2
 	},
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 92,
-		"common": 92
+		"ips": 90,
+		"common": 90
 	},
 	{
 		"name": "sslproxies_1d",
