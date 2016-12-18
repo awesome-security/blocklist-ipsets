@@ -158,13 +158,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 76906,
+		"ips": 76893,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 55924,
+		"ips": 55923,
 		"common": 4
 	},
 	{
@@ -178,6 +178,12 @@
 		"category": "attacks",
 		"ips": 3937,
 		"common": 36
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 1704,
+		"common": 1
 	},
 	{
 		"name": "dragon_http",
@@ -248,19 +254,19 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 267841,
+		"ips": 267832,
 		"common": 4
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50609,
+		"ips": 50606,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661877464,
+		"ips": 661872600,
 		"common": 6
 	},
 	{
@@ -284,13 +290,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37633,
+		"ips": 37634,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14219,
+		"ips": 14209,
 		"common": 1
 	},
 	{
@@ -345,7 +351,7 @@
 		"name": "iblocklist_isp_att",
 		"category": "organizations",
 		"ips": 55845128,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_isp_charter",
@@ -381,7 +387,7 @@
 		"name": "iblocklist_org_blizzard",
 		"category": "organizations",
 		"ips": 16795139,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_org_joost",
