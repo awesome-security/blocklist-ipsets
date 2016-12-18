@@ -8,8 +8,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36206,
-		"common": 10
+		"ips": 36231,
+		"common": 12
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -26,14 +26,20 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 1144,
-		"common": 5
+		"ips": 1161,
+		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25492,
+		"ips": 25481,
 		"common": 2
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 5757,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -146,13 +152,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46031,
-		"common": 13
+		"ips": 46055,
+		"common": 15
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 122777,
+		"ips": 122782,
 		"common": 2
 	},
 	{
@@ -404,7 +410,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 1914,
+		"ips": 1913,
 		"common": 1
 	},
 	{
