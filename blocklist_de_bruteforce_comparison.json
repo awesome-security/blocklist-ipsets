@@ -56,14 +56,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34112,
+		"ips": 34172,
 		"common": 1304
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10802,
-		"common": 1304
+		"ips": 10811,
+		"common": 1298
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 1598,
+		"common": 6
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -74,8 +80,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7278,
-		"common": 219
+		"ips": 7281,
+		"common": 221
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -344,7 +350,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45244,
+		"ips": 45304,
 		"common": 1304
 	},
 	{
@@ -356,8 +362,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573737,
-		"common": 247
+		"ips": 9573740,
+		"common": 249
 	},
 	{
 		"name": "firehol_proxies",

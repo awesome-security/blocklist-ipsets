@@ -21,25 +21,25 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1479,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9568,
-		"common": 50
+		"common": 52
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 5369,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "bi_ftp_2_30d",
 		"category": "attacks",
 		"ips": 181,
-		"common": 47
+		"common": 49
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -50,14 +50,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34112,
-		"common": 1597
+		"ips": 34172,
+		"common": 1598
+	},
+	{
+		"name": "blocklist_de_bruteforce",
+		"category": "attacks",
+		"ips": 1304,
+		"common": 6
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7278,
-		"common": 235
+		"ips": 7281,
+		"common": 233
 	},
 	{
 		"name": "botscout_1d",
@@ -314,8 +320,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45244,
-		"common": 1597
+		"ips": 45304,
+		"common": 1598
 	},
 	{
 		"name": "firehol_level3",
@@ -326,8 +332,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573737,
-		"common": 242
+		"ips": 9573740,
+		"common": 240
 	},
 	{
 		"name": "firehol_proxies",
@@ -447,25 +453,25 @@
 		"name": "ipblacklistcloud_recent",
 		"category": "abuse",
 		"ips": 35,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "ipblacklistcloud_recent_1d",
 		"category": "abuse",
 		"ips": 35,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
 		"ips": 422,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "ipblacklistcloud_recent_7d",
 		"category": "abuse",
 		"ips": 139,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "iw_spamlist",
@@ -597,7 +603,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375535927,
-		"common": 218
+		"common": 220
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -621,7 +627,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6205611,
-		"common": 89
+		"common": 90
 	},
 	{
 		"name": "sp_anti_infringement",
