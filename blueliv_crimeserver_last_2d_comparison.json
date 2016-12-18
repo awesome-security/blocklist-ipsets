@@ -212,25 +212,25 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 77041,
+		"ips": 77034,
 		"common": 29
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 19761,
+		"ips": 19775,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 55900,
+		"ips": 55899,
 		"common": 31
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14941,
+		"ips": 14936,
 		"common": 2
 	},
 	{
@@ -374,13 +374,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 267855,
+		"ips": 267859,
 		"common": 32
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50721,
+		"ips": 50696,
 		"common": 5
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 51403,
+		"ips": 51101,
 		"common": 9
 	},
 	{
@@ -410,14 +410,14 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37724,
+		"ips": 37699,
 		"common": 2
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14479,
-		"common": 79
+		"ips": 14473,
+		"common": 78
 	},
 	{
 		"name": "firehol_webserver",
@@ -792,21 +792,27 @@
 		"common": 1
 	},
 	{
+		"name": "proxyrss",
+		"category": "anonymizers",
+		"ips": 1053,
+		"common": 1
+	},
+	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 2484,
+		"ips": 2234,
 		"common": 1
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 10238,
+		"ips": 10174,
 		"common": 1
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 5108,
+		"ips": 5073,
 		"common": 1
 	},
 	{
@@ -848,8 +854,8 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 686,
-		"common": 44
+		"ips": 680,
+		"common": 43
 	},
 	{
 		"name": "ransomware_rw",
