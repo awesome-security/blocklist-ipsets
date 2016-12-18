@@ -20,7 +20,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 270,
+		"ips": 271,
 		"common": 1
 	},
 	{
@@ -98,49 +98,49 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 476,
+		"ips": 445,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 630,
+		"ips": 690,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 4652,
+		"ips": 4663,
 		"common": 6
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 2437,
+		"ips": 2458,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4340,
+		"ips": 4334,
 		"common": 6
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5378,
+		"ips": 5371,
 		"common": 11
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 19367,
+		"ips": 19362,
 		"common": 82
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 8709,
+		"ips": 8705,
 		"common": 28
 	},
 	{
@@ -206,8 +206,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7819,
-		"common": 168
+		"ips": 7761,
+		"common": 164
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -308,8 +308,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 8546,
-		"common": 82
+		"ips": 8705,
+		"common": 83
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -506,7 +506,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 34562,
+		"ips": 34594,
 		"common": 1553
 	},
 	{
@@ -746,43 +746,43 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50634,
+		"ips": 50625,
 		"common": 1298
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661877463,
+		"ips": 661877464,
 		"common": 2966
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 48219,
-		"common": 2572
+		"ips": 47972,
+		"common": 2570
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 122631,
-		"common": 761
+		"ips": 122783,
+		"common": 762
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574202,
-		"common": 4406
+		"ips": 9574149,
+		"common": 4402
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37683,
+		"ips": 37674,
 		"common": 1247
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14424,
+		"ips": 14418,
 		"common": 372
 	},
 	{
@@ -1028,7 +1028,7 @@
 	{
 		"name": "iblocklist_malc0de",
 		"category": "malware",
-		"ips": 299,
+		"ips": 305,
 		"common": 1
 	},
 	{
@@ -1214,7 +1214,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 242,
+		"ips": 244,
 		"common": 5
 	},
 	{
@@ -1466,13 +1466,13 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5286,
+		"ips": 5287,
 		"common": 21
 	},
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 590,
+		"ips": 584,
 		"common": 2
 	},
 	{
@@ -1563,24 +1563,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5190,
-		"common": 223
+		"ips": 5185,
+		"common": 222
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22133,
+		"ips": 22126,
 		"common": 728
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 12264,
+		"ips": 12265,
 		"common": 462
 	},
 	{
@@ -1670,19 +1670,19 @@
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 95,
+		"ips": 96,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 210,
+		"ips": 209,
 		"common": 3
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2023,
+		"ips": 2020,
 		"common": 16
 	},
 	{
@@ -1798,12 +1798,6 @@
 		"category": "malware",
 		"ips": 69,
 		"common": 1
-	},
-	{
-		"name": "virbl",
-		"category": "spam",
-		"ips": 345,
-		"common": 2
 	},
 	{
 		"name": "voipbl",
