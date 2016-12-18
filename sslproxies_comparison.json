@@ -9,13 +9,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 33484,
-		"common": 21
+		"common": 20
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
 		"ips": 1245,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "blocklist_de_mail",
@@ -26,7 +26,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7280,
+		"ips": 7267,
 		"common": 5
 	},
 	{
@@ -51,49 +51,49 @@
 		"name": "cleantalk",
 		"category": "abuse",
 		"ips": 2707,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 6587,
-		"common": 17
+		"common": 16
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 76741,
-		"common": 32
+		"common": 31
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 19583,
-		"common": 24
+		"common": 23
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
 		"ips": 707,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
 		"ips": 1620,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 37346,
-		"common": 30
+		"common": 29
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 8686,
-		"common": 22
+		"common": 21
 	},
 	{
 		"name": "cleantalk_updated",
@@ -135,7 +135,7 @@
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 305970,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "dronebl_irc_drones",
@@ -152,26 +152,26 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 10984,
-		"common": 38
+		"ips": 10941,
+		"common": 36
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 267732,
-		"common": 54
+		"common": 53
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50717,
+		"ips": 50718,
 		"common": 100
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 44342,
-		"common": 21
+		"common": 20
 	},
 	{
 		"name": "firehol_level3",
@@ -182,19 +182,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573755,
+		"ips": 9573742,
 		"common": 25
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37699,
+		"ips": 37700,
 		"common": 100
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 13983,
+		"ips": 13982,
 		"common": 1
 	},
 	{
@@ -213,7 +213,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_isp_att",
@@ -273,7 +273,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 37066,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "nullsecure",
@@ -405,19 +405,19 @@
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
 		"ips": 1224,
-		"common": 28
+		"common": 27
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
 		"ips": 7702,
-		"common": 37
+		"common": 36
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
 		"ips": 3126,
-		"common": 36
+		"common": 35
 	},
 	{
 		"name": "proxz_1d",
@@ -500,14 +500,20 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22096,
+		"ips": 22097,
+		"common": 2
+	},
+	{
+		"name": "socks_proxy_7d",
+		"category": "anonymizers",
+		"ips": 11955,
 		"common": 1
 	},
 	{
 		"name": "sorbs_anonymizers",
 		"category": "spam",
 		"ips": 608318,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "sorbs_dul",
@@ -519,13 +525,13 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 65507,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1356656,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "sorbs_web",
@@ -542,7 +548,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 234,
+		"ips": 225,
 		"common": 100
 	},
 	{
@@ -572,8 +578,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3170,
-		"common": 28
+		"ips": 3129,
+		"common": 26
 	},
 	{
 		"name": "stopforumspam_30d",
