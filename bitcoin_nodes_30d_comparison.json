@@ -62,14 +62,14 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 703,
-		"common": 699
+		"ips": 702,
+		"common": 698
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 1120,
-		"common": 1113
+		"ips": 1119,
+		"common": 1112
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
@@ -86,20 +86,32 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4264,
-		"common": 4264
+		"ips": 4268,
+		"common": 4268
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5381,
-		"common": 5381
+		"ips": 5386,
+		"common": 5386
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 8653,
-		"common": 8653
+		"ips": 8656,
+		"common": 8656
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 31037,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_bots",
+		"category": "attacks",
+		"ips": 1284,
+		"common": 1
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -176,7 +188,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 8720,
+		"ips": 8739,
 		"common": 2
 	},
 	{
@@ -200,19 +212,19 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6637,
+		"ips": 6661,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 76616,
+		"ips": 76613,
 		"common": 25
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 19536,
+		"ips": 19530,
 		"common": 5
 	},
 	{
@@ -242,13 +254,13 @@
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 55840,
+		"ips": 55841,
 		"common": 20
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 15014,
+		"ips": 15012,
 		"common": 2
 	},
 	{
@@ -356,13 +368,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11100,
+		"ips": 11130,
 		"common": 3
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 270368,
+		"ips": 270370,
 		"common": 84
 	},
 	{
@@ -374,19 +386,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661872594,
+		"ips": 661872590,
 		"common": 17
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 42340,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123189,
+		"ips": 123195,
 		"common": 41
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574419,
+		"ips": 9574411,
 		"common": 33
 	},
 	{
@@ -549,7 +567,7 @@
 		"name": "iblocklist_isp_qwest",
 		"category": "organizations",
 		"ips": 15777552,
-		"common": 198
+		"common": 197
 	},
 	{
 		"name": "iblocklist_isp_sprint",
@@ -819,7 +837,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 1110
+		"common": 1111
 	},
 	{
 		"name": "sp_atma",
