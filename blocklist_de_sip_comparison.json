@@ -39,19 +39,19 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 31227,
-		"common": 100
+		"common": 101
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7882,
+		"ips": 7891,
 		"common": 1
 	},
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 8739,
-		"common": 5
+		"ips": 8873,
+		"common": 6
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -105,18 +105,18 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 42662,
-		"common": 100
+		"common": 101
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123284,
-		"common": 7
+		"ips": 123415,
+		"common": 8
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574438,
+		"ips": 9574448,
 		"common": 11
 	},
 	{
@@ -154,6 +154,12 @@
 		"category": "reputation",
 		"ips": 8452,
 		"common": 5
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227983648,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_aol",
@@ -207,7 +213,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "iblocklist_spyware",
