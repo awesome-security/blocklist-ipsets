@@ -146,7 +146,7 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 9,
+		"ips": 8,
 		"common": 1
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1331,
+		"ips": 1328,
 		"common": 252
 	},
 	{
@@ -572,7 +572,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1728,
+		"ips": 1731,
 		"common": 242
 	},
 	{
@@ -896,7 +896,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123714,
+		"ips": 123709,
 		"common": 2321
 	},
 	{
@@ -1818,9 +1818,15 @@
 		"common": 518
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 3
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5006,
+		"ips": 5027,
 		"common": 165
 	},
 	{
@@ -1832,7 +1838,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 11509,
+		"ips": 11508,
 		"common": 256
 	},
 	{
@@ -1934,7 +1940,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 173,
+		"ips": 169,
 		"common": 38
 	},
 	{
@@ -2024,8 +2030,8 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1075,
-		"common": 493
+		"ips": 1067,
+		"common": 492
 	},
 	{
 		"name": "tor_exits_30d",
