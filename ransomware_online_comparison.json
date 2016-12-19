@@ -8,7 +8,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7743,
+		"ips": 7751,
 		"common": 2
 	},
 	{
@@ -72,12 +72,6 @@
 		"common": 1
 	},
 	{
-		"name": "dronebl_auto_botnets",
-		"category": "reputation",
-		"ips": 305969,
-		"common": 1
-	},
-	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
 		"ips": 50785,
@@ -92,7 +86,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574267,
+		"ips": 9574275,
 		"common": 3
 	},
 	{
@@ -104,20 +98,20 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 13941,
-		"common": 35
+		"ips": 13940,
+		"common": 34
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 51002781,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 23600,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -153,7 +147,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -165,18 +159,6 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 1
-	},
-	{
-		"name": "nullsecure",
-		"category": "reputation",
-		"ips": 29439,
-		"common": 1
-	},
-	{
-		"name": "openbl_all",
-		"category": "attacks",
-		"ips": 133655,
 		"common": 1
 	},
 	{
@@ -207,7 +189,7 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5283,
-		"common": 35
+		"common": 34
 	},
 	{
 		"name": "ransomware_locky_c2",
