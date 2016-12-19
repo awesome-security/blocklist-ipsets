@@ -32,8 +32,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 256,
-		"common": 46
+		"ips": 255,
+		"common": 47
 	},
 	{
 		"name": "bambenek_pushdo",
@@ -98,25 +98,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32203,
+		"ips": 32389,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10705,
+		"ips": 10701,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1357,
+		"ips": 1358,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9502,
+		"ips": 9525,
 		"common": 67
 	},
 	{
@@ -410,13 +410,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661868486,
-		"common": 281
+		"ips": 661868485,
+		"common": 282
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43716,
+		"ips": 43904,
 		"common": 4
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9575976,
+		"ips": 9576000,
 		"common": 359
 	},
 	{
@@ -573,7 +573,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 366
+		"common": 365
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
