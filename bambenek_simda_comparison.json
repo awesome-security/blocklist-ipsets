@@ -9,7 +9,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 262,
-		"common": 120
+		"common": 121
 	},
 	{
 		"name": "bambenek_ramnit",
@@ -20,7 +20,13 @@
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 73,
+		"ips": 72,
+		"common": 1
+	},
+	{
+		"name": "bambenek_tinba",
+		"category": "malware",
+		"ips": 7,
 		"common": 1
 	},
 	{
@@ -99,12 +105,12 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 661872588,
-		"common": 120
+		"common": 121
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574460,
+		"ips": 9574480,
 		"common": 22
 	},
 	{
@@ -207,7 +213,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_level3",
@@ -231,13 +237,13 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 85
+		"common": 86
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "malwaredomainlist",
