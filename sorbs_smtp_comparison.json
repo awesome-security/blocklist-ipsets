@@ -30,6 +30,18 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 31360,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 19972,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_last_1d",
 		"category": "attacks",
 		"ips": 10449,
@@ -164,8 +176,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50650,
+		"ips": 50640,
 		"common": 4
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 42009,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
@@ -182,7 +200,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37688,
+		"ips": 37678,
 		"common": 4
 	},
 	{
