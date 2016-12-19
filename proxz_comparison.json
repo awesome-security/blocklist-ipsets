@@ -110,7 +110,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11165,
+		"ips": 11157,
 		"common": 5
 	},
 	{
@@ -122,8 +122,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50639,
-		"common": 25
+		"ips": 50661,
+		"common": 27
 	},
 	{
 		"name": "firehol_level4",
@@ -134,8 +134,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37665,
-		"common": 25
+		"ips": 37687,
+		"common": 27
 	},
 	{
 		"name": "firehol_webserver",
@@ -360,6 +360,12 @@
 		"common": 2
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 70,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
 		"ips": 192,
@@ -392,7 +398,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3547,
+		"ips": 3539,
 		"common": 4
 	},
 	{
