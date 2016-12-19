@@ -32,8 +32,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32691,
-		"common": 90
+		"ips": 32661,
+		"common": 94
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -98,8 +98,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44193,
-		"common": 90
+		"ips": 44158,
+		"common": 94
 	},
 	{
 		"name": "firehol_level3",
@@ -201,7 +201,7 @@
 		"name": "iblocklist_pedophiles",
 		"category": "reputation",
 		"ips": 867825,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -231,7 +231,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 3569931,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "openbl_all",
@@ -273,7 +273,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1350754,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sorbs_web",
@@ -300,6 +300,12 @@
 		"common": 1
 	},
 	{
+		"name": "threatcrowd",
+		"category": "malware",
+		"ips": 6383,
+		"common": 1
+	},
+	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 17750,
@@ -309,6 +315,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 22118,
-		"common": 47
+		"common": 49
 	}
 ]
