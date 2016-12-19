@@ -452,7 +452,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50639,
+		"ips": 50641,
 		"common": 353
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37661,
+		"ips": 37663,
 		"common": 259
 	},
 	{
@@ -702,15 +702,27 @@
 		"common": 1
 	},
 	{
+		"name": "ipblacklistcloud_recent",
+		"category": "abuse",
+		"ips": 35,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_recent_1d",
+		"category": "abuse",
+		"ips": 69,
+		"common": 1
+	},
+	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
-		"ips": 389,
+		"ips": 417,
 		"common": 3
 	},
 	{
 		"name": "ipblacklistcloud_recent_7d",
 		"category": "abuse",
-		"ips": 139,
+		"ips": 168,
 		"common": 1
 	},
 	{
@@ -752,8 +764,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39517,
-		"common": 19
+		"ips": 39534,
+		"common": 20
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -975,25 +987,25 @@
 		"name": "proxyspy",
 		"category": "anonymizers",
 		"ips": 299,
-		"common": 15
+		"common": 11
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1391,
-		"common": 54
+		"ips": 1394,
+		"common": 55
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 7741,
+		"ips": 7740,
 		"common": 103
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 3185,
-		"common": 86
+		"ips": 3184,
+		"common": 85
 	},
 	{
 		"name": "proxz_1d",
