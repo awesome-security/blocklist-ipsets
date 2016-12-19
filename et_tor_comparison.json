@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8795,
+		"ips": 8878,
 		"common": 31
 	},
 	{
@@ -188,8 +188,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6957,
-		"common": 6217
+		"ips": 6969,
+		"common": 6215
 	},
 	{
 		"name": "botscout",
@@ -458,8 +458,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50689,
-		"common": 6258
+		"ips": 50647,
+		"common": 6240
 	},
 	{
 		"name": "firehol_level1",
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42232,
+		"ips": 42279,
 		"common": 6
 	},
 	{
@@ -482,13 +482,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9575302,
+		"ips": 9575380,
 		"common": 510
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37674,
+		"ips": 37677,
 		"common": 185
 	},
 	{
@@ -756,6 +756,12 @@
 		"common": 7
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39460,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -788,7 +794,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 133803,
+		"ips": 133832,
 		"common": 48
 	},
 	{
@@ -986,7 +992,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5285,
+		"ips": 5284,
 		"common": 1
 	},
 	{
@@ -1118,13 +1124,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 1976,
+		"ips": 1975,
 		"common": 4
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 565,
+		"ips": 564,
 		"common": 2
 	},
 	{
@@ -1178,7 +1184,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 1934,
+		"ips": 1933,
 		"common": 888
 	},
 	{
@@ -1230,21 +1236,15 @@
 		"common": 12
 	},
 	{
-		"name": "xroxy_1d",
-		"category": "anonymizers",
-		"ips": 146,
-		"common": 1
-	},
-	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 670,
+		"ips": 668,
 		"common": 1
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 332,
+		"ips": 330,
 		"common": 1
 	}
 ]
