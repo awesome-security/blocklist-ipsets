@@ -38,7 +38,7 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 5293,
+		"ips": 5237,
 		"common": 15
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9329,
+		"ips": 9331,
 		"common": 10
 	},
 	{
@@ -212,13 +212,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3971,
+		"ips": 3981,
 		"common": 22
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1734,
+		"ips": 1740,
 		"common": 21
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50662,
+		"ips": 50669,
 		"common": 451
 	},
 	{
@@ -314,19 +314,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123732,
+		"ips": 123712,
 		"common": 455
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9575819,
+		"ips": 9575820,
 		"common": 197
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37688,
+		"ips": 37693,
 		"common": 455
 	},
 	{
@@ -582,12 +582,6 @@
 		"common": 49
 	},
 	{
-		"name": "packetmail",
-		"category": "reputation",
-		"ips": 3119,
-		"common": 2
-	},
-	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 3371,
@@ -692,19 +686,19 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 1912,
-		"common": 172
+		"ips": 1935,
+		"common": 173
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22167,
+		"ips": 22171,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 11520,
+		"ips": 11531,
 		"common": 1
 	},
 	{
@@ -818,26 +812,26 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1009,
+		"ips": 1011,
 		"common": 173
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1071,
+		"ips": 1073,
 		"common": 177
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2537,
+		"ips": 2538,
 		"common": 210
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1407,
-		"common": 192
+		"ips": 1398,
+		"common": 190
 	},
 	{
 		"name": "turris_greylist",
