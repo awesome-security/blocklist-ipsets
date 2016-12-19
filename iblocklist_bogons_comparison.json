@@ -612,6 +612,12 @@
 		"common": 1312
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 256
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 8192,
@@ -620,13 +626,13 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 43264,
+		"ips": 43520,
 		"common": 2048
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 19456,
+		"ips": 19712,
 		"common": 1024
 	},
 	{
@@ -806,8 +812,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42009,
-		"common": 1048
+		"ips": 42036,
+		"common": 1043
 	},
 	{
 		"name": "firehol_level3",
@@ -1208,7 +1214,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 421,
+		"ips": 425,
 		"common": 13
 	},
 	{
@@ -1832,8 +1838,8 @@
 	{
 		"name": "virbl",
 		"category": "spam",
-		"ips": 51,
-		"common": 6
+		"ips": 79,
+		"common": 8
 	},
 	{
 		"name": "voipbl",

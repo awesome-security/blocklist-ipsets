@@ -645,24 +645,24 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 157
+		"common": 110
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 8192,
-		"common": 168
+		"common": 179
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 43264,
+		"ips": 43520,
 		"common": 794
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 19456,
+		"ips": 19712,
 		"common": 330
 	},
 	{
@@ -884,8 +884,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42009,
-		"common": 1947
+		"ips": 42036,
+		"common": 1954
 	},
 	{
 		"name": "firehol_level3",
@@ -1430,8 +1430,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 421,
-		"common": 55
+		"ips": 425,
+		"common": 56
 	},
 	{
 		"name": "openbl_30d",
@@ -2056,6 +2056,12 @@
 		"category": "malware",
 		"ips": 69,
 		"common": 13
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 79,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
