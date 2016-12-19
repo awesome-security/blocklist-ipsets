@@ -182,7 +182,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 445,
+		"ips": 443,
 		"common": 1
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50671,
+		"ips": 50758,
 		"common": 1
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37761,
+		"ips": 37755,
 		"common": 1
 	},
 	{
@@ -514,6 +514,12 @@
 		"category": "spam",
 		"ips": 3569931,
 		"common": 42
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 35180,
+		"common": 2
 	},
 	{
 		"name": "openbl_360d",
