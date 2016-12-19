@@ -8,7 +8,7 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5360,
+		"ips": 5357,
 		"common": 1
 	},
 	{
@@ -20,31 +20,31 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 8680,
+		"ips": 8679,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33410,
+		"ips": 32938,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10822,
+		"ips": 10739,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1266,
+		"ips": 1257,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 22518,
+		"ips": 22194,
 		"common": 2
 	},
 	{
@@ -92,19 +92,19 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 76726,
+		"ips": 76714,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 37338,
+		"ips": 37327,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 55884,
+		"ips": 55885,
 		"common": 2
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 267737,
+		"ips": 267730,
 		"common": 18
 	},
 	{
@@ -326,19 +326,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44495,
+		"ips": 43781,
 		"common": 3
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123503,
+		"ips": 123112,
 		"common": 154
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573908,
+		"ips": 9573897,
 		"common": 7
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14032,
+		"ips": 14030,
 		"common": 155
 	},
 	{
@@ -576,21 +576,15 @@
 		"common": 1
 	},
 	{
-		"name": "proxyrss_1d",
-		"category": "anonymizers",
-		"ips": 2493,
-		"common": 1
-	},
-	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 10286,
+		"ips": 10270,
 		"common": 1
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 5205,
+		"ips": 5190,
 		"common": 1
 	},
 	{
@@ -748,5 +742,11 @@
 		"category": "malware",
 		"ips": 6383,
 		"common": 4
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 17750,
+		"common": 1
 	}
 ]
