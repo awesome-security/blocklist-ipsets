@@ -36,12 +36,6 @@
 		"common": 6
 	},
 	{
-		"name": "bambenek_bebloh",
-		"category": "malware",
-		"ips": 1,
-		"common": 1
-	},
-	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 255,
@@ -212,8 +206,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9521,
-		"common": 184
+		"ips": 9500,
+		"common": 183
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -260,26 +254,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 32,
-		"common": 1
+		"ips": 27,
+		"common": 4
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 968,
-		"common": 96
+		"ips": 945,
+		"common": 97
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16297,
-		"common": 440
+		"ips": 16293,
+		"common": 441
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
 		"ips": 4539,
-		"common": 249
+		"common": 250
 	},
 	{
 		"name": "botvrij_dst",
@@ -626,8 +620,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11334,
-		"common": 289
+		"ips": 11317,
+		"common": 290
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -662,8 +656,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576000,
-		"common": 1892
+		"ips": 9575981,
+		"common": 1893
 	},
 	{
 		"name": "firehol_proxies",
@@ -1052,7 +1046,7 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 4340,
+		"ips": 4421,
 		"common": 2
 	},
 	{
@@ -1436,14 +1430,14 @@
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
-		"ips": 375439968,
+		"ips": 375438944,
 		"common": 1580
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 64786,
-		"common": 24
+		"ips": 64065,
+		"common": 23
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1454,7 +1448,7 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1351389,
+		"ips": 1351201,
 		"common": 166
 	},
 	{
@@ -1466,7 +1460,7 @@
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6205639,
+		"ips": 6205641,
 		"common": 141
 	},
 	{
