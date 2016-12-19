@@ -204,28 +204,34 @@
 		"common": 825
 	},
 	{
+		"name": "blueliv_crimeserver_last",
+		"category": "attacks",
+		"ips": 6909,
+		"common": 9
+	},
+	{
 		"name": "blueliv_crimeserver_last_1d",
 		"category": "attacks",
-		"ips": 7593,
-		"common": 11
+		"ips": 10449,
+		"common": 12
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
 		"category": "attacks",
-		"ips": 8824,
-		"common": 12
+		"ips": 11966,
+		"common": 16
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
-		"ips": 37892,
+		"ips": 38125,
 		"common": 26
 	},
 	{
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
-		"ips": 16947,
-		"common": 16
+		"ips": 19745,
+		"common": 18
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -428,7 +434,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 440,
+		"ips": 438,
 		"common": 73
 	},
 	{
@@ -662,7 +668,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50709,
+		"ips": 50707,
 		"common": 3391
 	},
 	{
@@ -686,13 +692,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37720,
+		"ips": 37718,
 		"common": 3386
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 13934,
+		"ips": 13933,
 		"common": 59
 	},
 	{
@@ -752,7 +758,7 @@
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
-		"ips": 30142,
+		"ips": 30149,
 		"common": 11
 	},
 	{
@@ -1376,7 +1382,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5284,
+		"ips": 5286,
 		"common": 3
 	},
 	{
@@ -1461,18 +1467,18 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 35
+		"common": 40
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5188,
-		"common": 2067
+		"ips": 5187,
+		"common": 2066
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22158,
+		"ips": 22156,
 		"common": 3163
 	},
 	{
@@ -1556,8 +1562,8 @@
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 85,
-		"common": 20
+		"ips": 81,
+		"common": 18
 	},
 	{
 		"name": "sslproxies_1d",
