@@ -20,13 +20,13 @@
 	{
 		"name": "bambenek_ramnit",
 		"category": "malware",
-		"ips": 15,
+		"ips": 16,
 		"common": 3
 	},
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 118,
+		"ips": 119,
 		"common": 11
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9666,
+		"ips": 9707,
 		"common": 23
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576135,
+		"ips": 9576175,
 		"common": 132
 	},
 	{
@@ -442,6 +442,12 @@
 		"category": "malware",
 		"ips": 1153,
 		"common": 11
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38717,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
