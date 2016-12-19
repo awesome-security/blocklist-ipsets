@@ -1,11 +1,5 @@
 [
 	{
-		"name": "alienvault_reputation",
-		"category": "reputation",
-		"ips": 29448,
-		"common": 1
-	},
-	{
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30151694,
@@ -27,19 +21,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 32203,
-		"common": 2
-	},
-	{
-		"name": "blocklist_de_imap",
-		"category": "attacks",
-		"ips": 1381,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 20660,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -54,16 +42,10 @@
 		"common": 1
 	},
 	{
-		"name": "dragon_http",
-		"category": "attacks",
-		"ips": 59136,
-		"common": 1
-	},
-	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 305966,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "dronebl_worms_bots",
@@ -74,19 +56,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43955,
-		"common": 147
-	},
-	{
-		"name": "firehol_level3",
-		"category": "attacks",
-		"ips": 123712,
-		"common": 1
+		"ips": 43688,
+		"common": 148
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9575901,
+		"ips": 9575890,
 		"common": 2
 	},
 	{
@@ -117,7 +93,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_level3",
@@ -147,55 +123,13 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 3569931,
-		"common": 28
+		"common": 27
 	},
 	{
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 39473,
 		"common": 11
-	},
-	{
-		"name": "openbl_180d",
-		"category": "attacks",
-		"ips": 16005,
-		"common": 1
-	},
-	{
-		"name": "openbl_30d",
-		"category": "attacks",
-		"ips": 6506,
-		"common": 1
-	},
-	{
-		"name": "openbl_360d",
-		"category": "attacks",
-		"ips": 24513,
-		"common": 1
-	},
-	{
-		"name": "openbl_60d",
-		"category": "attacks",
-		"ips": 9145,
-		"common": 1
-	},
-	{
-		"name": "openbl_7d",
-		"category": "attacks",
-		"ips": 1865,
-		"common": 1
-	},
-	{
-		"name": "openbl_90d",
-		"category": "attacks",
-		"ips": 11133,
-		"common": 1
-	},
-	{
-		"name": "openbl_all",
-		"category": "attacks",
-		"ips": 133832,
-		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -213,7 +147,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1351884,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "sorbs_web",
@@ -226,11 +160,5 @@
 		"category": "organizations",
 		"ips": 136184374,
 		"common": 6
-	},
-	{
-		"name": "turris_greylist",
-		"category": "reputation",
-		"ips": 17750,
-		"common": 1
 	}
 ]
