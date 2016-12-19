@@ -38,8 +38,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31406,
-		"common": 97
+		"ips": 31243,
+		"common": 96
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -50,7 +50,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 8669,
+		"ips": 8720,
 		"common": 5
 	},
 	{
@@ -102,15 +102,21 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 270426,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42714,
-		"common": 97
+		"ips": 42550,
+		"common": 96
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123155,
+		"ips": 123202,
 		"common": 7
 	},
 	{
@@ -122,14 +128,14 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 13960,
+		"ips": 13958,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 51002781,
-		"common": 30
+		"common": 29
 	},
 	{
 		"name": "gofferje_sip",
@@ -183,7 +189,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691421,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "iblocklist_level2",
@@ -195,7 +201,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -249,7 +255,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50766984,
-		"common": 29
+		"common": 28
+	},
+	{
+		"name": "sblam",
+		"category": "abuse",
+		"ips": 71941,
+		"common": 1
 	},
 	{
 		"name": "shunlist",
@@ -261,7 +273,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375533372,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "sorbs_new_spam",
