@@ -21,24 +21,24 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 35104,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 23898,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 77359,
+		"ips": 77358,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 55846,
+		"ips": 55837,
 		"common": 1
 	},
 	{
@@ -62,14 +62,14 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 273601,
+		"ips": 273607,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46712,
-		"common": 178
+		"ips": 46698,
+		"common": 164
 	},
 	{
 		"name": "firehol_level4",
@@ -87,7 +87,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 10
+		"common": 7
 	},
 	{
 		"name": "iblocklist_hijacked",
@@ -114,12 +114,6 @@
 		"common": 10
 	},
 	{
-		"name": "iblocklist_pedophiles",
-		"category": "reputation",
-		"ips": 867825,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
@@ -129,7 +123,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 3569931,
-		"common": 36
+		"common": 32
 	},
 	{
 		"name": "nixspam",
@@ -147,13 +141,13 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 59767,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1350724,
-		"common": 16
+		"common": 12
 	},
 	{
 		"name": "sorbs_web",
