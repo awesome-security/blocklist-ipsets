@@ -59,7 +59,7 @@
 [ -f 'bi_sql_2_30d.ipset' ] && /bin/touch --date=@1440603392 'bi_sql_2_30d.ipset'
 [ -f 'bi_ssh_2_30d.ipset' ] && /bin/touch --date=@1482206920 'bi_ssh_2_30d.ipset'
 [ -f 'bi_voip_2_30d.ipset' ] && /bin/touch --date=@1482119799 'bi_voip_2_30d.ipset'
-[ -f 'bitcoin_blockchain_info.ipset' ] && /bin/touch --date=@1482227060 'bitcoin_blockchain_info.ipset'
+[ -f 'bitcoin_blockchain_info.ipset' ] && /bin/touch --date=@1482227772 'bitcoin_blockchain_info.ipset'
 [ -f 'bitcoin_blockchain_info_1d.ipset' ] && /bin/touch --date=@1482226353 'bitcoin_blockchain_info_1d.ipset'
 [ -f 'bitcoin_blockchain_info_30d.ipset' ] && /bin/touch --date=@1482222741 'bitcoin_blockchain_info_30d.ipset'
 [ -f 'bitcoin_blockchain_info_7d.ipset' ] && /bin/touch --date=@1482223461 'bitcoin_blockchain_info_7d.ipset'
