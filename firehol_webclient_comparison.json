@@ -87,7 +87,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268568,
-		"common": 40
+		"common": 39
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -104,7 +104,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1056,
+		"ips": 1057,
 		"common": 20
 	},
 	{
@@ -705,7 +705,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 661867973,
-		"common": 645
+		"common": 643
 	},
 	{
 		"name": "firehol_level2",
@@ -717,7 +717,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 123097,
-		"common": 2897
+		"common": 2895
 	},
 	{
 		"name": "firehol_level4",
@@ -735,7 +735,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 51002919,
-		"common": 2050
+		"common": 2048
 	},
 	{
 		"name": "fullbogons",
@@ -783,7 +783,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 23634,
-		"common": 71
+		"common": 69
 	},
 	{
 		"name": "hphosts_exp",
@@ -861,7 +861,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 556
+		"common": 555
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -990,12 +990,6 @@
 		"common": 938
 	},
 	{
-		"name": "iblocklist_malc0de",
-		"category": "malware",
-		"ips": 296,
-		"common": 2
-	},
-	{
 		"name": "iblocklist_onion_router",
 		"category": "anonymizers",
 		"ips": 6899,
@@ -1107,19 +1101,13 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 937
+		"common": 936
 	},
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 3569931,
 		"common": 472
-	},
-	{
-		"name": "malc0de",
-		"category": "malware",
-		"ips": 291,
-		"common": 2
 	},
 	{
 		"name": "malwaredomainlist",
@@ -1142,8 +1130,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39993,
-		"common": 21
+		"ips": 39991,
+		"common": 25
 	},
 	{
 		"name": "nullsecure",
@@ -1192,12 +1180,6 @@
 		"category": "attacks",
 		"ips": 133981,
 		"common": 110
-	},
-	{
-		"name": "packetmail_emerging_ips",
-		"category": "reputation",
-		"ips": 55,
-		"common": 2
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -1371,13 +1353,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50766984,
-		"common": 1502
+		"common": 1501
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5301,
-		"common": 61
+		"ips": 5302,
+		"common": 59
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1386,22 +1368,16 @@
 		"common": 6
 	},
 	{
-		"name": "ransomware_locky_ps",
-		"category": "malware",
-		"ips": 6,
-		"common": 2
-	},
-	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 29,
-		"common": 29
+		"ips": 27,
+		"common": 27
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 11512,
-		"common": 129
+		"common": 127
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
@@ -1623,7 +1599,7 @@
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 111
+		"common": 110
 	},
 	{
 		"name": "tor_exits",
@@ -1659,7 +1635,7 @@
 		"name": "urlvir",
 		"category": "malware",
 		"ips": 69,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "voipbl",
@@ -1671,7 +1647,7 @@
 		"name": "vxvault",
 		"category": "malware",
 		"ips": 84,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "yoyo_adservers",
