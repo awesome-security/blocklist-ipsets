@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10244,
+		"ips": 10129,
 		"common": 85
 	},
 	{
@@ -308,13 +308,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3958,
-		"common": 269
+		"ips": 3955,
+		"common": 270
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1743,
+		"ips": 1745,
 		"common": 148
 	},
 	{
@@ -452,7 +452,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50609,
+		"ips": 50610,
 		"common": 69
 	},
 	{
@@ -470,19 +470,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123594,
+		"ips": 123562,
 		"common": 333
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576670,
+		"ips": 9576557,
 		"common": 437
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37617,
+		"ips": 37618,
 		"common": 69
 	},
 	{
@@ -776,8 +776,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3053,
-		"common": 15
+		"ips": 3064,
+		"common": 14
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -788,7 +788,7 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 171,
+		"ips": 170,
 		"common": 1
 	},
 	{
@@ -992,7 +992,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 1935,
+		"ips": 1929,
 		"common": 2
 	},
 	{
@@ -1004,19 +1004,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5128,
+		"ips": 5123,
 		"common": 38
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22143,
+		"ips": 22144,
 		"common": 59
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 11303,
+		"ips": 11305,
 		"common": 54
 	},
 	{
@@ -1088,7 +1088,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 566,
+		"ips": 565,
 		"common": 1
 	},
 	{
@@ -1166,7 +1166,7 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1065,
+		"ips": 1064,
 		"common": 2
 	},
 	{

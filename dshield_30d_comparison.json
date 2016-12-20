@@ -254,7 +254,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10244,
+		"ips": 10129,
 		"common": 65
 	},
 	{
@@ -440,13 +440,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3958,
+		"ips": 3955,
 		"common": 217
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1743,
+		"ips": 1745,
 		"common": 117
 	},
 	{
@@ -590,7 +590,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50609,
+		"ips": 50610,
 		"common": 36
 	},
 	{
@@ -608,19 +608,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123594,
+		"ips": 123562,
 		"common": 43264
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576670,
+		"ips": 9576557,
 		"common": 787
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37617,
+		"ips": 37618,
 		"common": 20
 	},
 	{
@@ -836,7 +836,7 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 4620,
+		"ips": 4716,
 		"common": 2
 	},
 	{
@@ -944,8 +944,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3053,
-		"common": 92
+		"ips": 3064,
+		"common": 100
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -956,8 +956,8 @@
 	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
-		"ips": 55,
-		"common": 3
+		"ips": 50,
+		"common": 2
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -1106,25 +1106,25 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 1935,
+		"ips": 1929,
 		"common": 10
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5128,
+		"ips": 5123,
 		"common": 3
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22143,
+		"ips": 22144,
 		"common": 10
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 11303,
+		"ips": 11305,
 		"common": 6
 	},
 	{
@@ -1262,7 +1262,7 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1065,
+		"ips": 1064,
 		"common": 8
 	},
 	{
