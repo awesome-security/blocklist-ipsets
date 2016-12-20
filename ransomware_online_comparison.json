@@ -8,7 +8,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10198,
+		"ips": 10180,
 		"common": 1
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50634,
+		"ips": 50928,
 		"common": 1
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576627,
+		"ips": 9576611,
 		"common": 2
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5300,
+		"ips": 5302,
 		"common": 27
 	},
 	{
@@ -190,6 +190,18 @@
 		"category": "malware",
 		"ips": 11511,
 		"common": 4
+	},
+	{
+		"name": "sorbs_new_spam",
+		"category": "spam",
+		"ips": 64585,
+		"common": 1
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 1351819,
+		"common": 1
 	},
 	{
 		"name": "threatcrowd",

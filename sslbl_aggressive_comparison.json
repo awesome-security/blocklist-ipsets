@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10198,
+		"ips": 10180,
 		"common": 1
 	},
 	{
@@ -98,19 +98,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 806,
+		"ips": 798,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16232,
+		"ips": 16233,
 		"common": 2
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4474,
+		"ips": 4473,
 		"common": 1
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6874,
+		"ips": 6964,
 		"common": 1
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11781,
+		"ips": 11778,
 		"common": 2
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50634,
+		"ips": 50928,
 		"common": 2
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46741,
+		"ips": 46748,
 		"common": 1
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576627,
+		"ips": 9576611,
 		"common": 35
 	},
 	{
@@ -714,12 +714,6 @@
 		"common": 1
 	},
 	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 39609,
-		"common": 1
-	},
-	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -758,7 +752,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5300,
+		"ips": 5302,
 		"common": 3
 	},
 	{
@@ -816,6 +810,12 @@
 		"common": 96
 	},
 	{
+		"name": "sorbs_new_spam",
+		"category": "spam",
+		"ips": 64585,
+		"common": 1
+	},
+	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22901350,
@@ -824,13 +824,13 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1350272,
-		"common": 16
+		"ips": 1351819,
+		"common": 17
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6205641,
+		"ips": 6205644,
 		"common": 19
 	},
 	{

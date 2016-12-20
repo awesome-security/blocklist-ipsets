@@ -218,7 +218,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10198,
+		"ips": 10180,
 		"common": 192
 	},
 	{
@@ -270,21 +270,27 @@
 		"common": 42
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 45,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 806,
+		"ips": 798,
 		"common": 28
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16232,
+		"ips": 16233,
 		"common": 147
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4474,
+		"ips": 4473,
 		"common": 59
 	},
 	{
@@ -446,8 +452,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6874,
-		"common": 42
+		"ips": 6964,
+		"common": 44
 	},
 	{
 		"name": "dragon_http",
@@ -584,7 +590,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11781,
+		"ips": 11778,
 		"common": 148
 	},
 	{
@@ -596,7 +602,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50634,
+		"ips": 50928,
 		"common": 373
 	},
 	{
@@ -608,7 +614,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46741,
+		"ips": 46748,
 		"common": 1168
 	},
 	{
@@ -620,7 +626,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576627,
+		"ips": 9576611,
 		"common": 2361
 	},
 	{
@@ -662,8 +668,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3316,
-		"common": 90
+		"ips": 3328,
+		"common": 92
 	},
 	{
 		"name": "haley_ssh",
@@ -962,8 +968,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39609,
-		"common": 101
+		"ips": 39708,
+		"common": 97
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1232,7 +1238,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5300,
+		"ips": 5302,
 		"common": 2
 	},
 	{
@@ -1352,8 +1358,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 62040,
-		"common": 486
+		"ips": 64585,
+		"common": 477
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1364,19 +1370,19 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1350272,
-		"common": 1262
+		"ips": 1351819,
+		"common": 1264
 	},
 	{
 		"name": "sorbs_smtp",
 		"category": "spam",
-		"ips": 1754,
+		"ips": 1755,
 		"common": 1
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6205641,
+		"ips": 6205644,
 		"common": 1792
 	},
 	{
