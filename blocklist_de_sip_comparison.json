@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35086,
-		"common": 99
+		"ips": 35025,
+		"common": 97
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -104,14 +104,14 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 273487,
+		"ips": 273493,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 46659,
-		"common": 99
+		"common": 97
 	},
 	{
 		"name": "firehol_level3",
@@ -168,12 +168,6 @@
 		"common": 1
 	},
 	{
-		"name": "iblocklist_isp_att",
-		"category": "organizations",
-		"ips": 55845128,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
@@ -196,12 +190,6 @@
 		"category": "reputation",
 		"ips": 139023007,
 		"common": 12
-	},
-	{
-		"name": "iblocklist_org_blizzard",
-		"category": "organizations",
-		"ips": 16795139,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -291,7 +279,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "stopforumspam_toxic",
@@ -321,6 +309,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 22118,
-		"common": 59
+		"common": 58
 	}
 ]
