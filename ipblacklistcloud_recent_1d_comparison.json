@@ -2,19 +2,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34367,
-		"common": 11
+		"ips": 34416,
+		"common": 12
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10752,
+		"ips": 10744,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1423,
+		"ips": 1427,
 		"common": 1
 	},
 	{
@@ -24,9 +24,15 @@
 		"common": 10
 	},
 	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 5427,
+		"common": 1
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10204,
+		"ips": 10216,
 		"common": 11
 	},
 	{
@@ -134,7 +140,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576630,
+		"ips": 9576645,
 		"common": 14
 	},
 	{
@@ -290,13 +296,13 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2538,
+		"ips": 2539,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1392,
+		"ips": 1393,
 		"common": 1
 	}
 ]
