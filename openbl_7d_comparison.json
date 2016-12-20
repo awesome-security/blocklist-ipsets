@@ -62,32 +62,38 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34114,
-		"common": 371
+		"ips": 34162,
+		"common": 370
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10765,
+		"ips": 10750,
 		"common": 3
+	},
+	{
+		"name": "blocklist_de_bots",
+		"category": "attacks",
+		"ips": 1324,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1329,
+		"ips": 1309,
 		"common": 14
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 22415,
+		"ips": 22596,
 		"common": 18
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5620,
-		"common": 350
+		"ips": 5522,
+		"common": 348
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -218,8 +224,8 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1743,
-		"common": 324
+		"ips": 1739,
+		"common": 325
 	},
 	{
 		"name": "dragon_http",
@@ -350,8 +356,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46474,
-		"common": 612
+		"ips": 46524,
+		"common": 610
 	},
 	{
 		"name": "firehol_level3",
