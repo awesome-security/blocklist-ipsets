@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9950,
+		"ips": 9920,
 		"common": 20
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3966,
+		"ips": 3975,
 		"common": 1
 	},
 	{
@@ -268,12 +268,6 @@
 		"category": "malware",
 		"ips": 101151,
 		"common": 388
-	},
-	{
-		"name": "dshield_1d",
-		"category": "attacks",
-		"ips": 8704,
-		"common": 1
 	},
 	{
 		"name": "dshield_30d",
@@ -338,8 +332,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47034,
-		"common": 94
+		"ips": 46524,
+		"common": 93
 	},
 	{
 		"name": "firehol_level3",
@@ -350,7 +344,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576285,
+		"ips": 9576254,
 		"common": 438
 	},
 	{
@@ -506,7 +500,7 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 5887,
+		"ips": 6149,
 		"common": 8
 	},
 	{
@@ -644,26 +638,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 946,
-		"common": 391
+		"ips": 941,
+		"common": 398
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2388,
-		"common": 1167
+		"ips": 2295,
+		"common": 1106
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
 		"ips": 10381,
-		"common": 2456
+		"common": 2458
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5310,
-		"common": 2306
+		"ips": 5304,
+		"common": 2308
 	},
 	{
 		"name": "proxyrss",
@@ -710,26 +704,26 @@
 	{
 		"name": "proxz",
 		"category": "anonymizers",
-		"ips": 23,
-		"common": 10
+		"ips": 21,
+		"common": 9
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 226,
-		"common": 111
+		"ips": 222,
+		"common": 109
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2517,
-		"common": 794
+		"ips": 2519,
+		"common": 795
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
 		"ips": 851,
-		"common": 388
+		"common": 385
 	},
 	{
 		"name": "pushing_inertia_blocklist",

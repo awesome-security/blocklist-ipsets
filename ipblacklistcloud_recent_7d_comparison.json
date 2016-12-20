@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9950,
+		"ips": 9920,
 		"common": 11
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3966,
+		"ips": 3975,
 		"common": 1
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47034,
+		"ips": 46524,
 		"common": 21
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576285,
+		"ips": 9576254,
 		"common": 23
 	},
 	{
@@ -298,6 +298,12 @@
 		"category": "abuse",
 		"ips": 417,
 		"common": 168
+	},
+	{
+		"name": "iw_spamlist",
+		"category": "spam",
+		"ips": 6149,
+		"common": 1
 	},
 	{
 		"name": "jigsaw_malware",
