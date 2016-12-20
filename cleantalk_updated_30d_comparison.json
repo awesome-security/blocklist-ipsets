@@ -75,13 +75,13 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9452,
-		"common": 568
+		"common": 567
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 4899,
-		"common": 291
+		"common": 290
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -105,7 +105,7 @@
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 6931,
-		"common": 276
+		"common": 275
 	},
 	{
 		"name": "bi_voip_2_30d",
@@ -218,7 +218,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10129,
+		"ips": 10121,
 		"common": 1060
 	},
 	{
@@ -350,49 +350,49 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 3435,
+		"ips": 3480,
 		"common": 2001
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 7099,
-		"common": 4712
+		"ips": 7174,
+		"common": 4750
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 76911,
-		"common": 40020
+		"ips": 76952,
+		"common": 40022
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 19817,
-		"common": 10874
+		"ips": 19861,
+		"common": 10875
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 1435,
+		"ips": 1480,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 2409,
+		"ips": 2446,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 37674,
+		"ips": 37713,
 		"common": 23
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 9113,
+		"ips": 9154,
 		"common": 8
 	},
 	{
@@ -410,14 +410,14 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5610,
-		"common": 5610
+		"ips": 5656,
+		"common": 5656
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14670,
-		"common": 14670
+		"ips": 14679,
+		"common": 14679
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -483,13 +483,13 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 292526,
-		"common": 2265
+		"common": 2264
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 305966,
-		"common": 919
+		"common": 918
 	},
 	{
 		"name": "dronebl_autorooting_worms",
@@ -620,14 +620,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12094,
-		"common": 6002
+		"ips": 12179,
+		"common": 6048
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 273036,
-		"common": 53219
+		"ips": 273084,
+		"common": 53225
 	},
 	{
 		"name": "firehol_anonymous",
@@ -638,7 +638,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661868486,
+		"ips": 661868485,
 		"common": 3640
 	},
 	{
@@ -656,7 +656,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576557,
+		"ips": 9576549,
 		"common": 7232
 	},
 	{
@@ -675,7 +675,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 51002838,
-		"common": 15620
+		"common": 15621
 	},
 	{
 		"name": "fullbogons",
@@ -921,7 +921,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 4674
+		"common": 4675
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -1365,7 +1365,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50766984,
-		"common": 15083
+		"common": 15084
 	},
 	{
 		"name": "ransomware_feed",
@@ -1425,7 +1425,7 @@
 		"name": "sblam",
 		"category": "abuse",
 		"ips": 74673,
-		"common": 9954
+		"common": 9955
 	},
 	{
 		"name": "shunlist",
@@ -1467,7 +1467,7 @@
 		"name": "sorbs_anonymizers",
 		"category": "spam",
 		"ips": 608332,
-		"common": 738
+		"common": 737
 	},
 	{
 		"name": "sorbs_dul",
@@ -1479,7 +1479,7 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 64585,
-		"common": 457
+		"common": 458
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1491,7 +1491,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1351819,
-		"common": 2543
+		"common": 2544
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1605,7 +1605,7 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 553047,
-		"common": 1821
+		"common": 1822
 	},
 	{
 		"name": "taichung",
