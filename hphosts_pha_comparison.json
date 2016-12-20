@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10001,
+		"ips": 10019,
 		"common": 15
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576254,
+		"ips": 9576272,
 		"common": 129
 	},
 	{
@@ -648,6 +648,12 @@
 		"common": 5
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39991,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -692,8 +698,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5305,
-		"common": 72
+		"ips": 5304,
+		"common": 73
 	},
 	{
 		"name": "ransomware_locky_c2",

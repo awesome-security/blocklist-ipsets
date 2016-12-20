@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 29990,
-		"common": 51
+		"common": 50
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -21,7 +21,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 6586,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -63,25 +63,25 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 39032,
-		"common": 1373
+		"common": 1382
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 27791,
-		"common": 1373
+		"common": 1382
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
 		"ips": 144,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10001,
-		"common": 35
+		"ips": 10019,
+		"common": 36
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -123,7 +123,7 @@
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1316,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -213,7 +213,7 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 3996,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -225,7 +225,7 @@
 		"name": "dragon_http",
 		"category": "attacks",
 		"ips": 59136,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dronebl_anonymizers",
@@ -243,7 +243,7 @@
 		"name": "dronebl_autorooting_worms",
 		"category": "attacks",
 		"ips": 957,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "dronebl_irc_drones",
@@ -267,7 +267,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 42496,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "dshield_7d",
@@ -291,7 +291,7 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1353,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "et_spamhaus",
@@ -327,19 +327,19 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 49831,
-		"common": 1373
+		"common": 1382
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 123459,
-		"common": 42
+		"common": 41
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576254,
-		"common": 46
+		"ips": 9576272,
+		"common": 47
 	},
 	{
 		"name": "firehol_proxies",
@@ -375,7 +375,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2495,
-		"common": 62
+		"common": 63
 	},
 	{
 		"name": "haley_ssh",
@@ -435,7 +435,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 9
+		"common": 7
 	},
 	{
 		"name": "iblocklist_isp_twc",
@@ -459,19 +459,19 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 57
+		"common": 55
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 57
+		"common": 55
 	},
 	{
 		"name": "iblocklist_pedophiles",
 		"category": "reputation",
 		"ips": 867825,
-		"common": 22
+		"common": 21
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -513,31 +513,25 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 3569931,
-		"common": 66
+		"common": 67
 	},
 	{
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 39991,
 		"common": 7
-	},
-	{
-		"name": "nt_ssh_7d",
-		"category": "attacks",
-		"ips": 304,
-		"common": 1
 	},
 	{
 		"name": "nullsecure",
@@ -651,7 +645,7 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 86661,
-		"common": 19
+		"common": 20
 	},
 	{
 		"name": "sorbs_noserver",
@@ -663,13 +657,13 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1366833,
-		"common": 124
+		"common": 126
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6244883,
-		"common": 173
+		"common": 175
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -723,7 +717,7 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 553047,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "taichung",
