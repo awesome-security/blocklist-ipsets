@@ -158,8 +158,8 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 7,
-		"common": 1
+		"ips": 8,
+		"common": 2
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -182,7 +182,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1042,
+		"ips": 1043,
 		"common": 82
 	},
 	{
@@ -590,8 +590,8 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1732,
-		"common": 138
+		"ips": 1730,
+		"common": 137
 	},
 	{
 		"name": "dm_tor",
@@ -1722,9 +1722,15 @@
 		"common": 284
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5086,
+		"ips": 5103,
 		"common": 56
 	},
 	{
