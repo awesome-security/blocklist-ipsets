@@ -26,7 +26,7 @@
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 67,
+		"ips": 66,
 		"common": 1
 	},
 	{
@@ -128,25 +128,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36655,
+		"ips": 36873,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10831,
+		"ips": 10853,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25538,
+		"ips": 25750,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9925,
+		"ips": 9906,
 		"common": 148
 	},
 	{
@@ -200,26 +200,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 55,
-		"common": 1
+		"ips": 49,
+		"common": 3
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 736,
-		"common": 113
+		"ips": 742,
+		"common": 114
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16032,
+		"ips": 16028,
 		"common": 490
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4438,
-		"common": 333
+		"ips": 4448,
+		"common": 335
 	},
 	{
 		"name": "botvrij_dst",
@@ -404,7 +404,7 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 8192,
+		"ips": 8448,
 		"common": 1
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12877,
+		"ips": 12881,
 		"common": 396
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50514,
+		"ips": 50517,
 		"common": 993
 	},
 	{
@@ -482,8 +482,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47169,
-		"common": 5
+		"ips": 47626,
+		"common": 4
 	},
 	{
 		"name": "firehol_level3",
@@ -494,13 +494,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576201,
+		"ips": 9576179,
 		"common": 524
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37535,
+		"ips": 37538,
 		"common": 174
 	},
 	{
@@ -536,8 +536,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2481,
-		"common": 2
+		"ips": 2465,
+		"common": 1
 	},
 	{
 		"name": "haley_ssh",
@@ -830,7 +830,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39991,
+		"ips": 39990,
 		"common": 1
 	},
 	{
@@ -1210,12 +1210,6 @@
 		"category": "reputation",
 		"ips": 17750,
 		"common": 16
-	},
-	{
-		"name": "urlvir",
-		"category": "malware",
-		"ips": 69,
-		"common": 1
 	},
 	{
 		"name": "voipbl",

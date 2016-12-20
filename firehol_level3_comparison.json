@@ -104,7 +104,7 @@
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 67,
+		"ips": 66,
 		"common": 1
 	},
 	{
@@ -230,43 +230,43 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36655,
+		"ips": 36873,
 		"common": 1048
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10831,
-		"common": 116
+		"ips": 10853,
+		"common": 115
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1364,
-		"common": 46
+		"ips": 1366,
+		"common": 45
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1506,
+		"ips": 1532,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 2019,
+		"ips": 2012,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1344,
-		"common": 47
+		"ips": 1348,
+		"common": 46
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25538,
+		"ips": 25750,
 		"common": 198
 	},
 	{
@@ -278,8 +278,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5284,
-		"common": 680
+		"ips": 5271,
+		"common": 682
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -290,8 +290,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9925,
-		"common": 347
+		"ips": 9906,
+		"common": 346
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -344,26 +344,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 55,
-		"common": 7
+		"ips": 49,
+		"common": 4
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 736,
-		"common": 143
+		"ips": 742,
+		"common": 145
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16032,
-		"common": 938
+		"ips": 16028,
+		"common": 939
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4438,
-		"common": 479
+		"ips": 4448,
+		"common": 482
 	},
 	{
 		"name": "botvrij_dst",
@@ -596,8 +596,8 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 8192,
-		"common": 8192
+		"ips": 8448,
+		"common": 8448
 	},
 	{
 		"name": "dshield_30d",
@@ -812,7 +812,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12877,
+		"ips": 12881,
 		"common": 677
 	},
 	{
@@ -824,7 +824,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50514,
+		"ips": 50517,
 		"common": 1686
 	},
 	{
@@ -836,19 +836,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47169,
-		"common": 9453
+		"ips": 47626,
+		"common": 9706
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576201,
+		"ips": 9576179,
 		"common": 2320
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37535,
+		"ips": 37538,
 		"common": 855
 	},
 	{
@@ -890,8 +890,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2481,
-		"common": 168
+		"ips": 2465,
+		"common": 170
 	},
 	{
 		"name": "haley_ssh",
@@ -1274,8 +1274,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39991,
-		"common": 25
+		"ips": 39990,
+		"common": 21
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1682,20 +1682,20 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5016,
+		"ips": 5013,
 		"common": 114
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22119,
+		"ips": 22122,
 		"common": 189
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 11015,
-		"common": 163
+		"ips": 11016,
+		"common": 162
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1788,12 +1788,6 @@
 		"common": 2407
 	},
 	{
-		"name": "sslproxies",
-		"category": "anonymizers",
-		"ips": 100,
-		"common": 1
-	},
-	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
 		"ips": 199,
@@ -1802,7 +1796,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 1933,
+		"ips": 1932,
 		"common": 25
 	},
 	{
@@ -1916,8 +1910,8 @@
 	{
 		"name": "urlvir",
 		"category": "malware",
-		"ips": 69,
-		"common": 15
+		"ips": 71,
+		"common": 17
 	},
 	{
 		"name": "voipbl",
