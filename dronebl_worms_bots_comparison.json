@@ -66,64 +66,88 @@
 		"common": 40
 	},
 	{
+		"name": "bitcoin_nodes",
+		"category": "organizations",
+		"ips": 4351,
+		"common": 1
+	},
+	{
+		"name": "bitcoin_nodes_1d",
+		"category": "organizations",
+		"ips": 5408,
+		"common": 1
+	},
+	{
+		"name": "bitcoin_nodes_30d",
+		"category": "organizations",
+		"ips": 19352,
+		"common": 1
+	},
+	{
+		"name": "bitcoin_nodes_7d",
+		"category": "organizations",
+		"ips": 8690,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36018,
-		"common": 555
+		"ips": 36322,
+		"common": 556
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10813,
+		"ips": 10821,
 		"common": 12
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1359,
+		"ips": 1363,
 		"common": 14
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1496,
+		"ips": 1501,
 		"common": 12
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 1983,
+		"ips": 2002,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1325,
+		"ips": 1335,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24910,
-		"common": 512
+		"ips": 25211,
+		"common": 515
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5328,
-		"common": 16
+		"ips": 5301,
+		"common": 14
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 143,
+		"ips": 142,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9920,
-		"common": 22
+		"ips": 9852,
+		"common": 23
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -224,7 +248,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 9239,
+		"ips": 9390,
 		"common": 1
 	},
 	{
@@ -506,13 +530,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123126,
+		"ips": 123273,
 		"common": 128
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576238,
+		"ips": 9576118,
 		"common": 377
 	},
 	{
@@ -764,7 +788,7 @@
 	{
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
-		"ips": 25194240,
+		"ips": 25193984,
 		"common": 10
 	},
 	{
@@ -837,7 +861,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 39995,
-		"common": 102
+		"common": 96
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1118,7 +1142,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5303,
+		"ips": 5302,
 		"common": 1
 	},
 	{
