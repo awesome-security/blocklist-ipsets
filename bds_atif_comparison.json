@@ -140,19 +140,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4327,
+		"ips": 4324,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5372,
+		"ips": 5373,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 19331,
+		"ips": 19327,
 		"common": 6
 	},
 	{
@@ -164,38 +164,44 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 38565,
+		"ips": 38672,
 		"common": 262
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10844,
+		"ips": 10842,
 		"common": 13
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 2061,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1361,
+		"ips": 1367,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 27340,
+		"ips": 27467,
 		"common": 30
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 164,
+		"ips": 165,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5309,
-		"common": 215
+		"ips": 5292,
+		"common": 214
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -542,7 +548,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 49121,
+		"ips": 49229,
 		"common": 424
 	},
 	{
@@ -879,7 +885,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 39991,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "nt_ssh_7d",
