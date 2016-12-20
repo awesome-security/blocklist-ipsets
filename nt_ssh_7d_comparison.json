@@ -56,19 +56,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35356,
+		"ips": 35320,
 		"common": 71
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 1304,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24214,
+		"ips": 24255,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5343,
+		"ips": 5307,
 		"common": 70
 	},
 	{
@@ -108,27 +114,39 @@
 		"common": 2
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 3852,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20243,
+		"ips": 20250,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5705,
+		"ips": 5710,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 55838,
+		"ips": 55835,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14561,
+		"ips": 14555,
 		"common": 2
 	},
 	{
@@ -236,7 +254,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 273654,
+		"ips": 273673,
 		"common": 2
 	},
 	{
@@ -248,7 +266,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46432,
+		"ips": 46396,
 		"common": 74
 	},
 	{
@@ -302,7 +320,7 @@
 	{
 		"name": "iblocklist_cruzit_web_attacks",
 		"category": "attacks",
-		"ips": 6270,
+		"ips": 6275,
 		"common": 1
 	},
 	{
