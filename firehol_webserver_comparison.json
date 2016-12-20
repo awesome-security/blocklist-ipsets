@@ -128,8 +128,14 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 255,
+		"ips": 254,
 		"common": 159
+	},
+	{
+		"name": "bambenek_necurs",
+		"category": "malware",
+		"ips": 3,
+		"common": 1
 	},
 	{
 		"name": "bambenek_pushdo",
@@ -153,7 +159,7 @@
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 118,
-		"common": 70
+		"common": 69
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -188,8 +194,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1061,
-		"common": 118
+		"ips": 1058,
+		"common": 119
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -350,8 +356,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10053,
-		"common": 2155
+		"ips": 10002,
+		"common": 2150
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -908,7 +914,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661850052,
+		"ips": 661850051,
 		"common": 21745
 	},
 	{
@@ -926,8 +932,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576391,
-		"common": 57143
+		"ips": 9576343,
+		"common": 57138
 	},
 	{
 		"name": "firehol_proxies",
@@ -1028,8 +1034,8 @@
 	{
 		"name": "hphosts_pha",
 		"category": "reputation",
-		"ips": 1763,
-		"common": 814
+		"ips": 1778,
+		"common": 821
 	},
 	{
 		"name": "hphosts_psh",
@@ -1725,7 +1731,7 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5301,
-		"common": 4402
+		"common": 4403
 	},
 	{
 		"name": "ransomware_locky_c2",
