@@ -74,13 +74,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 77073,
+		"ips": 77106,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 55794,
+		"ips": 55792,
 		"common": 1
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 273230,
+		"ips": 273270,
 		"common": 1
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123562,
+		"ips": 123561,
 		"common": 293
 	},
 	{
@@ -154,6 +154,12 @@
 		"category": "attacks",
 		"ips": 9576777,
 		"common": 34
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 14024,
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -326,13 +332,19 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5300,
+		"ips": 5299,
 		"common": 13
 	},
 	{
 		"name": "ransomware_locky_ps",
 		"category": "malware",
 		"ips": 6,
+		"common": 2
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 29,
 		"common": 2
 	},
 	{
