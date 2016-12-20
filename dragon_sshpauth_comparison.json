@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10477,
+		"ips": 10493,
 		"common": 4
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3946,
+		"ips": 3942,
 		"common": 9
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47461,
+		"ips": 47493,
 		"common": 31
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576850,
+		"ips": 9576866,
 		"common": 114
 	},
 	{
@@ -501,6 +501,12 @@
 		"name": "packetmail_carisirt",
 		"category": "reputation",
 		"ips": 550,
+		"common": 1
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 3533,
 		"common": 1
 	},
 	{
