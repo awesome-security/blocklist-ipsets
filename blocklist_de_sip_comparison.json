@@ -21,7 +21,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9452,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -39,13 +39,19 @@
 		"name": "bi_voip_2_30d",
 		"category": "attacks",
 		"ips": 61,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34877,
-		"common": 95
+		"ips": 34958,
+		"common": 97
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 10436,
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -104,8 +110,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47217,
-		"common": 95
+		"ips": 47300,
+		"common": 97
 	},
 	{
 		"name": "firehol_level3",
@@ -117,19 +123,19 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9576777,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 51002838,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095415,
-		"common": 31
+		"common": 32
 	},
 	{
 		"name": "greensnow",
@@ -189,7 +195,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 10
+		"common": 12
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -225,7 +231,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "lashback_ubl",
@@ -249,7 +255,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50766984,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "sblam",
@@ -315,6 +321,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 22118,
-		"common": 55
+		"common": 57
 	}
 ]
