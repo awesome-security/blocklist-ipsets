@@ -158,25 +158,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4281,
-		"common": 63
+		"ips": 4283,
+		"common": 62
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
 		"ips": 5385,
-		"common": 116
+		"common": 115
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 19360,
-		"common": 1095
+		"ips": 19362,
+		"common": 1094
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 8672,
+		"ips": 8674,
 		"common": 299
 	},
 	{
@@ -782,13 +782,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50497,
+		"ips": 50499,
 		"common": 3682
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661868488,
+		"ips": 661868489,
 		"common": 7301
 	},
 	{
@@ -812,7 +812,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37615,
+		"ips": 37617,
 		"common": 3637
 	},
 	{
@@ -1046,8 +1046,8 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690551,
-		"common": 958967
+		"ips": 762625990,
+		"common": 958983
 	},
 	{
 		"name": "iblocklist_level2",
@@ -1526,7 +1526,7 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11511,
+		"ips": 11512,
 		"common": 22
 	},
 	{
@@ -1602,22 +1602,28 @@
 		"common": 28
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5104,
+		"ips": 5094,
 		"common": 83
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22138,
-		"common": 1118
+		"ips": 22141,
+		"common": 1119
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 11289,
-		"common": 419
+		"ips": 11293,
+		"common": 420
 	},
 	{
 		"name": "sorbs_anonymizers",
