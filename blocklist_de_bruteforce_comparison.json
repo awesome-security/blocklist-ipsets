@@ -56,14 +56,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 38672,
-		"common": 1536
+		"ips": 38831,
+		"common": 1542
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10842,
-		"common": 1536
+		"ips": 10845,
+		"common": 1542
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -75,7 +75,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 9995,
-		"common": 387
+		"common": 392
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -117,19 +117,19 @@
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 768,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 16018,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
 		"ips": 4463,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "bruteforceblocker",
@@ -303,13 +303,13 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 12875,
-		"common": 26
+		"common": 27
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 273773,
-		"common": 138
+		"common": 139
 	},
 	{
 		"name": "firehol_level1",
@@ -320,20 +320,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 49483,
-		"common": 1536
+		"ips": 49638,
+		"common": 1542
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123459,
+		"ips": 123460,
 		"common": 4
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9576256,
-		"common": 414
+		"common": 420
 	},
 	{
 		"name": "firehol_webclient",
@@ -345,7 +345,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 51002919,
-		"common": 134
+		"common": 135
 	},
 	{
 		"name": "gofferje_sip",
@@ -372,10 +372,16 @@
 		"common": 3
 	},
 	{
+		"name": "hphosts_ats",
+		"category": "organizations",
+		"ips": 15709,
+		"common": 1
+	},
+	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 23634,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "hphosts_fsa",
@@ -387,7 +393,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 19458,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "iblocklist_badpeers",
@@ -441,13 +447,13 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762625990,
-		"common": 34
+		"common": 35
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 36
+		"common": 37
 	},
 	{
 		"name": "iblocklist_level3",
@@ -507,18 +513,18 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 3569931,
-		"common": 109
+		"common": 108
 	},
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39991,
+		"ips": 39990,
 		"common": 3
 	},
 	{
@@ -639,13 +645,13 @@
 		"name": "sblam",
 		"category": "abuse",
 		"ips": 74673,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375439801,
-		"common": 106
+		"common": 107
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -663,7 +669,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1366833,
-		"common": 197
+		"common": 196
 	},
 	{
 		"name": "sorbs_web",
@@ -687,43 +693,43 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 149231,
-		"common": 48
+		"common": 49
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 285019,
-		"common": 86
+		"common": 87
 	},
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
 		"ips": 3955,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "stopforumspam_30d",
 		"category": "abuse",
 		"ips": 61628,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 573247,
-		"common": 119
+		"common": 120
 	},
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
 		"ips": 18049,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 150183,
-		"common": 48
+		"common": 49
 	},
 	{
 		"name": "stopforumspam_toxic",
