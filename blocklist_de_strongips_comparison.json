@@ -50,37 +50,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 39220,
-		"common": 144
+		"ips": 39316,
+		"common": 145
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10884,
+		"ips": 10887,
 		"common": 13
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
 		"ips": 1390,
-		"common": 54
+		"common": 55
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1575,
+		"ips": 1578,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1381,
-		"common": 7
+		"ips": 1380,
+		"common": 9
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 28005,
+		"ips": 28091,
 		"common": 21
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5246,
+		"ips": 5247,
 		"common": 62
 	},
 	{
@@ -111,19 +111,19 @@
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 771,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 16020,
-		"common": 48
+		"common": 49
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
 		"ips": 4503,
-		"common": 25
+		"common": 26
 	},
 	{
 		"name": "bruteforceblocker",
@@ -147,7 +147,7 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 77436,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "cleantalk_7d",
@@ -183,7 +183,7 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 55736,
-		"common": 40
+		"common": 41
 	},
 	{
 		"name": "cleantalk_updated_7d",
@@ -200,7 +200,7 @@
 	{
 		"name": "cybercrime",
 		"category": "malware",
-		"ips": 10940,
+		"ips": 10989,
 		"common": 6
 	},
 	{
@@ -309,13 +309,13 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 12806,
-		"common": 48
+		"common": 49
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 273783,
-		"common": 71
+		"common": 72
 	},
 	{
 		"name": "firehol_anonymous",
@@ -332,20 +332,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 50029,
-		"common": 144
+		"ips": 50126,
+		"common": 145
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123459,
+		"ips": 123464,
 		"common": 65
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576308,
-		"common": 104
+		"ips": 9576356,
+		"common": 105
 	},
 	{
 		"name": "firehol_proxies",
@@ -356,7 +356,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14060,
+		"ips": 14109,
 		"common": 6
 	},
 	{
@@ -369,7 +369,7 @@
 		"name": "gpf_comics",
 		"category": "abuse",
 		"ips": 3918,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "greensnow",
@@ -441,7 +441,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 41
+		"common": 42
 	},
 	{
 		"name": "lashback_ubl",
@@ -454,6 +454,12 @@
 		"category": "abuse",
 		"ips": 2427,
 		"common": 2
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39991,
+		"common": 1
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -669,7 +675,7 @@
 		"name": "sblam",
 		"category": "abuse",
 		"ips": 74673,
-		"common": 67
+		"common": 68
 	},
 	{
 		"name": "shunlist",
@@ -741,43 +747,43 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 149231,
-		"common": 64
+		"common": 65
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 285019,
-		"common": 65
+		"common": 66
 	},
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
 		"ips": 3918,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "stopforumspam_30d",
 		"category": "abuse",
 		"ips": 61628,
-		"common": 45
+		"common": 46
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 573247,
-		"common": 68
+		"common": 69
 	},
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
 		"ips": 18049,
-		"common": 42
+		"common": 43
 	},
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 150183,
-		"common": 64
+		"common": 65
 	},
 	{
 		"name": "stopforumspam_toxic",
