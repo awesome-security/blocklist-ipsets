@@ -18,18 +18,6 @@
 		"common": 1
 	},
 	{
-		"name": "blocklist_de",
-		"category": "attacks",
-		"ips": 35320,
-		"common": 1
-	},
-	{
-		"name": "blocklist_de_mail",
-		"category": "attacks",
-		"ips": 24255,
-		"common": 1
-	},
-	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 77421,
@@ -68,14 +56,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46396,
-		"common": 164
+		"ips": 46369,
+		"common": 139
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9576818,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -93,7 +81,7 @@
 		"name": "iblocklist_hijacked",
 		"category": "attacks",
 		"ips": 9145088,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level1",
@@ -111,7 +99,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -123,7 +111,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 3569931,
-		"common": 32
+		"common": 28
 	},
 	{
 		"name": "nixspam",
@@ -147,7 +135,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1350724,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "sorbs_web",
@@ -159,6 +147,6 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 5
+		"common": 3
 	}
 ]
