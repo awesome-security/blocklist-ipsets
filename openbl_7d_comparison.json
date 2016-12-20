@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9995,
+		"ips": 9996,
 		"common": 88
 	},
 	{
@@ -338,8 +338,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12875,
-		"common": 5
+		"ips": 12886,
+		"common": 6
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576256,
+		"ips": 9576258,
 		"common": 199
 	},
 	{
@@ -748,6 +748,12 @@
 		"category": "abuse",
 		"ips": 285019,
 		"common": 28
+	},
+	{
+		"name": "stopforumspam_1d",
+		"category": "abuse",
+		"ips": 3953,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_30d",
