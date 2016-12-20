@@ -56,14 +56,20 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1391,
+		"ips": 1398,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 27700,
+		"ips": 27780,
 		"common": 5
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 5322,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -302,7 +308,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50533,
+		"ips": 50522,
 		"common": 4
 	},
 	{
@@ -332,7 +338,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37540,
+		"ips": 37529,
 		"common": 3
 	},
 	{
@@ -746,7 +752,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5306,
+		"ips": 5303,
 		"common": 2
 	},
 	{
