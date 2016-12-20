@@ -308,8 +308,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50498,
-		"common": 2509
+		"ips": 50490,
+		"common": 2510
 	},
 	{
 		"name": "firehol_level1",
@@ -338,8 +338,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37571,
-		"common": 2516
+		"ips": 37563,
+		"common": 2517
 	},
 	{
 		"name": "firehol_webclient",
@@ -792,21 +792,27 @@
 		"common": 1
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 5110,
-		"common": 9
+		"ips": 5108,
+		"common": 10
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 22148,
+		"ips": 22145,
 		"common": 24
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 11222,
+		"ips": 11219,
 		"common": 15
 	},
 	{
@@ -867,7 +873,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "sslproxies_1d",
