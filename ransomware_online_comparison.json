@@ -3,12 +3,12 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268568,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9807,
+		"ips": 9805,
 		"common": 1
 	},
 	{
@@ -81,18 +81,12 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 661850059,
-		"common": 6
-	},
-	{
-		"name": "firehol_level3",
-		"category": "attacks",
-		"ips": 123296,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576105,
+		"ips": 9576103,
 		"common": 2
 	},
 	{
@@ -104,26 +98,26 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14111,
-		"common": 29
+		"ips": 14109,
+		"common": 27
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 51002945,
-		"common": 9
+		"common": 7
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 23704,
-		"common": 5
+		"common": 3
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_edu",
@@ -156,28 +150,10 @@
 		"common": 2
 	},
 	{
-		"name": "iblocklist_malc0de",
-		"category": "malware",
-		"ips": 296,
-		"common": 2
-	},
-	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 2
-	},
-	{
-		"name": "malc0de",
-		"category": "malware",
-		"ips": 291,
-		"common": 2
-	},
-	{
-		"name": "packetmail_emerging_ips",
-		"category": "reputation",
-		"ips": 71,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "proxyspy_30d",
@@ -195,13 +171,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50766984,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5386,
-		"common": 29
+		"ips": 5385,
+		"common": 27
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -210,16 +186,10 @@
 		"common": 4
 	},
 	{
-		"name": "ransomware_locky_ps",
-		"category": "malware",
-		"ips": 6,
-		"common": 2
-	},
-	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 11512,
-		"common": 6
+		"common": 4
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -237,18 +207,12 @@
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 22149,
-		"common": 1
-	},
-	{
-		"name": "vxvault",
-		"category": "malware",
-		"ips": 84,
 		"common": 1
 	}
 ]
