@@ -98,8 +98,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 40822,
-		"common": 7277
+		"ips": 40912,
+		"common": 7283
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5350,
+		"ips": 5370,
 		"common": 19
 	},
 	{
@@ -254,50 +254,50 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 3355,
+		"ips": 3340,
 		"common": 40
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 8032,
-		"common": 89
+		"ips": 8084,
+		"common": 90
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 77477,
-		"common": 720
+		"ips": 77493,
+		"common": 721
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20236,
+		"ips": 20237,
 		"common": 159
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 1355,
+		"ips": 1340,
 		"common": 17
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 3324,
-		"common": 40
+		"ips": 3354,
+		"common": 41
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 38439,
-		"common": 341
+		"ips": 38452,
+		"common": 342
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 9735,
-		"common": 79
+		"ips": 9734,
+		"common": 80
 	},
 	{
 		"name": "cleantalk_updated",
@@ -308,19 +308,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5714,
+		"ips": 5744,
 		"common": 51
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 55707,
+		"ips": 55710,
 		"common": 425
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14359,
+		"ips": 14361,
 		"common": 102
 	},
 	{
@@ -512,19 +512,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12834,
-		"common": 221
+		"ips": 12888,
+		"common": 222
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 275219,
-		"common": 2488
+		"ips": 275233,
+		"common": 2489
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50521,
+		"ips": 50504,
 		"common": 3640
 	},
 	{
@@ -536,8 +536,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 52320,
-		"common": 7307
+		"ips": 52410,
+		"common": 7313
 	},
 	{
 		"name": "firehol_level3",
@@ -554,7 +554,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37627,
+		"ips": 37610,
 		"common": 3640
 	},
 	{
@@ -902,8 +902,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39998,
-		"common": 2252
+		"ips": 39999,
+		"common": 2601
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1082,25 +1082,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1110,
-		"common": 21
+		"ips": 1093,
+		"common": 23
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2317,
+		"ips": 2239,
 		"common": 48
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 10366,
+		"ips": 10351,
 		"common": 85
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5320,
+		"ips": 5297,
 		"common": 73
 	},
 	{
@@ -1130,44 +1130,50 @@
 	{
 		"name": "proxyspy",
 		"category": "anonymizers",
-		"ips": 295,
-		"common": 4
+		"ips": 296,
+		"common": 3
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1236,
+		"ips": 1250,
 		"common": 13
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 7724,
+		"ips": 7714,
 		"common": 46
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 3126,
+		"ips": 3116,
 		"common": 27
+	},
+	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 21,
+		"common": 1
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 233,
-		"common": 6
+		"ips": 227,
+		"common": 7
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2520,
+		"ips": 2516,
 		"common": 25
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
 		"ips": 847,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "pushing_inertia_blocklist",
