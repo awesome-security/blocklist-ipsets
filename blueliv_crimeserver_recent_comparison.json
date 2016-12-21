@@ -356,7 +356,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50470,
+		"ips": 50462,
 		"common": 2
 	},
 	{
@@ -386,7 +386,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37504,
+		"ips": 37498,
 		"common": 1
 	},
 	{
@@ -718,6 +718,12 @@
 		"category": "reputation",
 		"ips": 70,
 		"common": 3
+	},
+	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 215,
+		"common": 1
 	},
 	{
 		"name": "proxylists_1d",
