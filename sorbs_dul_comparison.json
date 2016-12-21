@@ -68,7 +68,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1067,
+		"ips": 1068,
 		"common": 69
 	},
 	{
@@ -116,8 +116,8 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 725,
-		"common": 97
+		"ips": 723,
+		"common": 96
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
@@ -135,25 +135,25 @@
 		"name": "bitcoin_nodes",
 		"category": "organizations",
 		"ips": 4269,
-		"common": 693
+		"common": 692
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5352,
-		"common": 1048
+		"ips": 5353,
+		"common": 1050
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 19290,
-		"common": 5479
+		"ips": 19284,
+		"common": 5478
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 8667,
-		"common": 2097
+		"ips": 8663,
+		"common": 2096
 	},
 	{
 		"name": "blocklist_de",
@@ -212,8 +212,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9731,
-		"common": 343
+		"ips": 9748,
+		"common": 342
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -776,8 +776,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 51237,
-		"common": 4794
+		"ips": 51250,
+		"common": 4792
 	},
 	{
 		"name": "firehol_level3",
@@ -788,8 +788,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576052,
-		"common": 23382
+		"ips": 9576070,
+		"common": 23381
 	},
 	{
 		"name": "firehol_proxies",
@@ -1274,8 +1274,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 332,
-		"common": 34
+		"ips": 321,
+		"common": 32
 	},
 	{
 		"name": "openbl_30d",
@@ -1460,26 +1460,26 @@
 	{
 		"name": "proxyrss",
 		"category": "anonymizers",
-		"ips": 981,
-		"common": 26
+		"ips": 1021,
+		"common": 21
 	},
 	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 2283,
-		"common": 74
+		"ips": 2138,
+		"common": 65
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 10168,
-		"common": 550
+		"ips": 10147,
+		"common": 549
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 5147,
-		"common": 203
+		"ips": 5112,
+		"common": 199
 	},
 	{
 		"name": "proxyspy",
@@ -1538,7 +1538,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5367,
+		"ips": 5380,
 		"common": 42
 	},
 	{
@@ -1876,6 +1876,12 @@
 		"category": "malware",
 		"ips": 71,
 		"common": 4
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 139,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
