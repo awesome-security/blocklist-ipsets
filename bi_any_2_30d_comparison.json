@@ -218,7 +218,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9527,
+		"ips": 9500,
 		"common": 181
 	},
 	{
@@ -270,21 +270,27 @@
 		"common": 53
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 30,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 827,
+		"ips": 830,
 		"common": 23
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15913,
+		"ips": 15912,
 		"common": 146
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4442,
+		"ips": 4440,
 		"common": 64
 	},
 	{
@@ -608,7 +614,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 52875,
+		"ips": 52880,
 		"common": 1150
 	},
 	{
@@ -620,7 +626,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9575763,
+		"ips": 9575737,
 		"common": 2355
 	},
 	{
@@ -662,8 +668,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3204,
-		"common": 88
+		"ips": 3198,
+		"common": 87
 	},
 	{
 		"name": "haley_ssh",
@@ -986,8 +992,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 336,
-		"common": 43
+		"ips": 340,
+		"common": 45
 	},
 	{
 		"name": "openbl_30d",
@@ -1226,7 +1232,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5383,
+		"ips": 5382,
 		"common": 2
 	},
 	{
@@ -1520,7 +1526,7 @@
 	{
 		"name": "virbl",
 		"category": "spam",
-		"ips": 244,
+		"ips": 251,
 		"common": 1
 	},
 	{
