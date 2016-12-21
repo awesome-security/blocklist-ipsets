@@ -104,13 +104,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 52034,
+		"ips": 52070,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123238,
+		"ips": 123243,
 		"common": 84
 	},
 	{
@@ -122,8 +122,8 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14109,
-		"common": 1
+		"ips": 14111,
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -327,6 +327,12 @@
 		"name": "ransomware_locky_ps",
 		"category": "malware",
 		"ips": 6,
+		"common": 1
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 29,
 		"common": 1
 	},
 	{
