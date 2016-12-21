@@ -80,8 +80,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 738,
-		"common": 17
+		"ips": 740,
+		"common": 16
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -182,8 +182,14 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10887,
+		"ips": 10899,
 		"common": 4
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 1455,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
@@ -518,13 +524,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50504,
+		"ips": 50507,
 		"common": 8
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661850059,
+		"ips": 661850054,
 		"common": 514
 	},
 	{
@@ -548,7 +554,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37610,
+		"ips": 37613,
 		"common": 5
 	},
 	{
@@ -992,7 +998,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5387,
+		"ips": 5385,
 		"common": 9
 	},
 	{
