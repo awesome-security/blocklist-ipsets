@@ -116,7 +116,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1787,
+		"ips": 1789,
 		"common": 1
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50418,
+		"ips": 50444,
 		"common": 4
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37517,
+		"ips": 37545,
 		"common": 4
 	},
 	{
@@ -438,16 +438,28 @@
 		"common": 2
 	},
 	{
+		"name": "proxyrss",
+		"category": "anonymizers",
+		"ips": 987,
+		"common": 1
+	},
+	{
+		"name": "proxyrss_1d",
+		"category": "anonymizers",
+		"ips": 2145,
+		"common": 1
+	},
+	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 10147,
+		"ips": 10117,
 		"common": 4
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 5112,
-		"common": 1
+		"ips": 5105,
+		"common": 2
 	},
 	{
 		"name": "proxyspy_1d",
